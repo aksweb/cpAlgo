@@ -63,12 +63,19 @@ int main()
         cin >> n >> nop;
         ll a[n];
         ll mx = -1;
+        ll zc = 0;
         rep(i, n)
         {
             cin >> a[i];
+            if (a[i] == 0)
+                zc++;
             mx = max(mx, a[i]);
         }
-
+        if (zc == n)
+        {
+            cout << 0 br;
+            continue;
+        }
         ll l = 0, r = mx + 1;
         while (l + 1 < r)
         {
@@ -79,16 +86,11 @@ int main()
             else
                 r = m;
         }
-        if (r == mx + 1 && (l != 0))
-        {
+        if (r == mx + 1 && (l == mx))
             cout << -1 br;
-        }
-        else if (l == 0 && r == n)
-            cout << 0 br;
         else
-        {
             cout << r br;
-        }
+        // }
     }
     return 0;
 }
