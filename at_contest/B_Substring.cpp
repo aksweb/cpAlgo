@@ -37,64 +37,26 @@ bool cmp(const pair<ll, ll> a, const pair<ll, ll> b)
 // -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
 // Code Begins Here
 // -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
-int pred(ll m, ll a[], int n, int b, int c)
+
+int countSubstrings(string s)
 {
-    int nop = 0;
-    int i = 0;
-    while (b--)
+    unordered_set<string> substrings;
+    for (int i = 0; i < s.length(); ++i)
     {
-        ll st = a[i];
-        ll mx_wt = a[i] + m;
-        int cc = c;
-        ll ii = i;
-        while (i < n && a[i] <= mx_wt && cc > 0)
+        string sub = "";
+        for (int j = i; j < s.length(); ++j)
         {
-            nop++;
-            i++;
-            cc--;
+            sub += s[j];
+            substrings.insert(sub);
         }
     }
-    if (nop == n)
-        return 1;
-    else
-        return 0;
+    return substrings.size();
 }
 
 int main()
 {
-    ios::sync_with_stdio(false);
-    cin.tie(NULL);
-    int n, b, c;
-    cin >> n >> b >> c;
-    ll a[n];
-    ll mx = -1;
-    ll mn = 1e9 + 7;
-
-    if (n == b)
-    {
-        cout << 0 << endl;
-        return 0;
-    }
-    for (int i = 0; i < n; i++)
-    {
-        cin >> a[i];
-        mx = max(mx, a[i]);
-        mn = min(a[i], mn);
-    }
-    sort(a, a + n);
-    ll l = 0, r = mx - mn;
-    while (l + 1 < r)
-    {
-        ll m = (l + r) / 2;
-        if (pred(m, a, n, b, c) == 0)
-        {
-            l = m;
-        }
-        else
-        {
-            r = m;
-        }
-    }
-    cout << r;
+    string S;
+    cin >> S;
+    cout << countSubstrings(S) << endl;
     return 0;
 }

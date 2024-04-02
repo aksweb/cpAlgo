@@ -5,6 +5,7 @@
 using namespace std;
 #define ll long long int
 #define br << endl
+#define pb push_back
 #define rep(i, n) for (ll i = 0; i < n; i++)
 #define repi(i, n) for (ll i = 1; i <= n; i++)
 #define repii(i, n) for (ll i = 1; i < n; i++)
@@ -32,49 +33,67 @@ bool cmp(const pair<ll, ll> a, const pair<ll, ll> b)
     if (a.first == b.first)
         return a.second < b.second;
     else
-        return a.first > b.first;
+        return a.first >
+               b.first;
 }
 
-int pred(ll m, ll b)
+int pred(ll a[], ll m, ll n)
 {
-    if (m >= b)
-        return 1;
+    if (m == n - 1)
+    {
+        if (a[m] == a[m - 1])
+            return 1;
+        else
+            return 0;
+    }
+    if ((m % 2) == 0)
+    {
+        if ((m + 1) < n && (a[m] != a[m + 1]))
+            return 1;
+        else
+            return 0;
+    }
     else
-        return 0;
+    {
+        if ((m - 1) >= 0 && (a[m] != a[m - 1]))
+            return 1;
+        else
+            return 0;
+    }
 }
+
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-    int n, d;
-    cin >> n >> d;
-    ll a[n];
-    rep(i, n)
+    ll _;
+    cin >> _;
+    while (_--)
     {
-        cin >> a[i];
-    }
-    ll ans = 0;
-    rep(i, n)
-    {
+        ll n;
+        cin >> n;
+        ll a[n];
+        rep(i, n) cin >> a[i];
 
-        ll temp = a[i] + d;
-
-        ll l = -1, r = n;
+        if (n == 1)
+        {
+            cout << a[0] br;
+            continue;
+        }
+        ll l = 0, r = n - 1;
         while (l + 1 < r)
         {
-            ll m = (l + r) / 2;
-            if (pred(temp, a[m]) ==0 )
+            ll m = l + (r - l) / 2;
+            if (pred(a, m, n) == 0)
                 l = m;
             else
                 r = m;
         }
-        if (r != n)
-        {
-            ans += ((r - i) * (r - i - 1)) / 2;
-        }
+        if ((r < n - 1) && a[r] == a[r + 1])
+            cout << a[l] br;
+        else
+            cout << a[r] br;
     }
-    cout << ans br;
-
     return 0;
 }

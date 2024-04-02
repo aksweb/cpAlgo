@@ -37,64 +37,69 @@ bool cmp(const pair<ll, ll> a, const pair<ll, ll> b)
 // -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
 // Code Begins Here
 // -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -
-int pred(ll m, ll a[], int n, int b, int c)
-{
-    int nop = 0;
-    int i = 0;
-    while (b--)
-    {
-        ll st = a[i];
-        ll mx_wt = a[i] + m;
-        int cc = c;
-        ll ii = i;
-        while (i < n && a[i] <= mx_wt && cc > 0)
-        {
-            nop++;
-            i++;
-            cc--;
-        }
-    }
-    if (nop == n)
-        return 1;
-    else
-        return 0;
-}
 
+int pred(ll m, ll x)
+{
+    if (m < x)
+        return 0;
+    else
+        return 1;
+}
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    int n, b, c;
-    cin >> n >> b >> c;
-    ll a[n];
-    ll mx = -1;
-    ll mn = 1e9 + 7;
-
-    if (n == b)
+    ll n;
+    char ch;
+    cin >> n >> ch;
+    string s;
+    cin >> s;
+    ll p1 = -1, p2 = -1;
+    for (ll i = 0; i < n; i++)
     {
-        cout << 0 << endl;
+        if (s[i] == ch)
+        {
+            p1 = i;
+            break;
+        }
+    }
+
+    for (ll i = n - 1; i >= 0; i--)
+    {
+        if (s[i] == ch)
+        {
+            p2 = i;
+            break;
+        }
+    }
+
+    if (p1 == p2)
+    {
+        cout << 0;
         return 0;
     }
-    for (int i = 0; i < n; i++)
+    else
     {
-        cin >> a[i];
-        mx = max(mx, a[i]);
-        mn = min(a[i], mn);
-    }
-    sort(a, a + n);
-    ll l = 0, r = mx - mn;
-    while (l + 1 < r)
-    {
-        ll m = (l + r) / 2;
-        if (pred(m, a, n, b, c) == 0)
+        ll ans = 0;
+        ll bleft = 0, bright = 0;
+        for (int i = p1; i <= p2; i++)
         {
-            l = m;
+            if (s[i] != ch)
+            {
+                if (i - p1 - bleft <= p2 - i)
+                {
+                    ans += i - p1 - bleft;
+                    bleft++;
+                }
+             
+                else
+                {
+                    ans += p2 - i;
+                }
+            }
         }
-        else
-        {
-            r = m;
-        }
+        cout << ans;
     }
-    cout << r;
+
     return 0;
 }

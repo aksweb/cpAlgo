@@ -6,6 +6,18 @@
         "iostream": "cpp",
         "initializer_list": "cpp",
         "vector": "cpp",
-        "xstring": "cpp"
+        "xstring": "cpp",
+        "cmath": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "list": "cpp",
+        "iterator": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "type_traits": "cpp",
+        "climits": "cpp",
+        "iosfwd": "cpp"
     }
 }
