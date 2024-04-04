@@ -40,27 +40,31 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    string a, b;
-    cin >> a >> b;
-    ll p = 0, q = 0;
-    while (p != a.size() && q != b.size())
+    ll _;
+    cin >> _;
+    while (_--)
     {
-        if (a[p] == b[q])
+
+        string s;
+        cin >> s;
+
+        ll a[26] = {-1};
+        for (int j = 0; j <= 25; j++)
         {
-            cout << a[p] << " ";
-            p++;
-            q++;
+            char ch = j + 'a';
+            for (ll i = n - 1; i >= 0; i--)
+            {
+                if (s[i] == ch)
+                {
+                    a[i] = i;
+                    break;
+                }
+            }
         }
-        else
-        {
-            cout << "-" << a[p] << " ";
-            p++;
-        }
-    }
-    while (q != b.size())
-    {
-        cout << "+" << b[q] << " ";
-        q++;
+        
+        for()
+
+        ll l = 0, r = s.size() - 1;
     }
 
     return 0;
