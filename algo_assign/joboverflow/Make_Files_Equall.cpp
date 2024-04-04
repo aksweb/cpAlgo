@@ -40,25 +40,6 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    ll n, k;
-    cin >> n >> k;
 
-    ll a[n];
-    rep(i, n) cin >> a[i];
-
-    ll sum = 0, mn = LLONG_MAX;
-
-    rep(i, k) sum += a[i];
-    mn = min(sum, mn);
-
-    for (ll i = k; i < n; i++)
-    {
-        sum = sum - a[i - k] + a[i];
-        mn = min(mn, sum);
-    }
-    cout << mn;
-
-    // cout << (n == k ? accumulate(a, a + n, 0LL) : mn) << endl;
-
-    return 0;
+        return 0;
 }

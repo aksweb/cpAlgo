@@ -40,25 +40,53 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
-    ll n, k;
-    cin >> n >> k;
 
+    ll mxa = -1, mxb = -1;
+    ll n;
+    cin >> n;
     ll a[n];
-    rep(i, n) cin >> a[i];
-
-    ll sum = 0, mn = LLONG_MAX;
-
-    rep(i, k) sum += a[i];
-    mn = min(sum, mn);
-
-    for (ll i = k; i < n; i++)
+    rep(i, n)
     {
-        sum = sum - a[i - k] + a[i];
-        mn = min(mn, sum);
+        cin >> a[i];
+        mxa = max(mxa, a[i]);
     }
-    cout << mn;
 
-    // cout << (n == k ? accumulate(a, a + n, 0LL) : mn) << endl;
+    ll m;
+    cin >> m;
+    ll b[m];
+    rep(i, m)
+    {
+        cin >> b[i];
+        mxb = max(b[i], mxb);
+    }
 
+    vector<bool> va(mxa + 1, false);
+    vector<bool> vb(mxb + 1, false);
+
+    // marking vis-a and vis-b
+    rep(i, m)
+    {
+        if (b[i] <= mxa)
+            va[b[i]] = true;
+    }
+
+    rep(i, n)
+    {
+        if (a[i] <= mxb)
+            vb[a[i]] = true;
+    }
+    vector<ll> ans;
+    rep(i, n)
+    {
+        if (!va[a[i]])
+            ans.push_back(a[i]);
+    }
+    rep(i, m)
+    {
+        if (!vb[b[i]])
+            ans.push_back(b[i]);
+    }
+    // rep(i, ans.size()) cout << ans[i] << " ";
+    cout << ans.size();
     return 0;
 }
