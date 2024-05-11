@@ -18,6 +18,7 @@
         "xmemory": "cpp",
         "type_traits": "cpp",
         "climits": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "ostream": "cpp"
     }
 }

@@ -1,0 +1,1 @@
+{"name":"Local: diameter","url":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\cc_contest\\haha\\diameter.cpp","tests":[{"id":1713459755702,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\cc_contest\\haha\\diameter.cpp","group":"local","local":true}
