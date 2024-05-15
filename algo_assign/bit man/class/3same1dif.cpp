@@ -24,12 +24,15 @@ int main()
         int cnt = 0;
         for (int i = 0; i < 10; i++)
         {
-            if (a[i] & (1 << 1))
+            if (a[i] & (1 << i))
             {
                 cnt++;
             }
         }
-        if(cnt)
+        if (cnt % 3 != 0)
+        {
+            ans |= (1 << i);
+        }
     }
     return 0;
 }
