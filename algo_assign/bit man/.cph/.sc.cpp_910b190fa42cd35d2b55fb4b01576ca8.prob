@@ -1,0 +1,1 @@
+{"name":"Local: sc","url":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\algo_assign\\bit man\\sc.cpp","tests":[{"id":1715783607720,"input":"3\n5\nRPRRS\n1\nS\n4\nRRRR","output":"4\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\algo_assign\\bit man\\sc.cpp","group":"local","local":true}
