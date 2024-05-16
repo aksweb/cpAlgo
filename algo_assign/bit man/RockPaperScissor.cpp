@@ -1,9 +1,16 @@
-#include <iostream>
-#include <string>
-
+// TSETEN RGIPT
+// ΣDAY
+#include <bits/stdc++.h>
 #define ll long long int
-
 using namespace std;
+#define ll long long int
+#define br << endl
+#define pb push_back
+#define rep(i, m, n) for (ll i = m; i < n; i++)
+#define gcd __gcd
+const ll MOD = 1e9 + 7;
+
+// Code Begins Here
 
 int main()
 {
@@ -45,7 +52,7 @@ int main()
             prevChar = c;
         }
 
-        cout << n - count << endl;
+        cout << n - count br;
     }
 
     return 0;
