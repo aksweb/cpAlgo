@@ -1,0 +1,1 @@
+{"name":"Local: zeroSum","url":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\algo_assign\\hashing\\zeroSum.cpp","tests":[{"id":1715943286300,"input":"5\n4 2 -3 1 6","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\algo_assign\\hashing\\zeroSum.cpp","group":"local","local":true}

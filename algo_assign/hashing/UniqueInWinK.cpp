@@ -1,5 +1,3 @@
-// TESTEN RGIPT
-// ΣDAY
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
@@ -20,22 +18,28 @@ int main()
     {
         cin >> a[i];
     }
-
-    rep(i, 0, n - k + 1)
+    if (k >= n)
     {
-        // cout << a[i] << " ";
-        vector<int> temp(101, 0);
-        for (int j = i; j < (i + k); j++)
-        {
-            temp[a[j]]++;
-        }
-        ll ans = 0;
-        for (int j = 0; j < 101; j++)
-        {
-            if (temp[j] == 1)
-                ans++;
-        }
-        cout << ans << " ";
+        unordered_set<int> unique_elements(a.begin(), a.end());
+        cout << unique_elements.size() << endl;
+        return 0;
     }
+    unordered_map<int, int> temp;
+    rep(i, 0, k)
+    {
+        temp[a[i]]++;
+    }
+    int ind = 0;
+    cout << temp.size() << " ";
+    rep(i, k, n)
+    {
+        temp[a[ind]]--;
+        if (temp[a[ind]] == 0)
+            temp.erase(a[ind]);
+        temp[a[i]]++;
+        cout << temp.size() << " ";
+        ind++;
+    }
+
     return 0;
 }

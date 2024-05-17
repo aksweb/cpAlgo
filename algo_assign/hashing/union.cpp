@@ -14,22 +14,20 @@ int main()
     cin.tie(NULL);
     int n, m;
     cin >> n >> m;
+    map<ll, int> ump;
 
-    ll a[n], b[m];
-    set<ll> st;
-    rep(i, 0, n)
+    rep(i, 0, n + m)
     {
-        cin >> a[i];
-        st.insert(a[i]);
-    }
-    rep(i, 0, m)
-    {
-        cin >> b[i];
-        st.insert(b[i]);
+        ll temp;
+        cin >> temp;
+        ump[temp]++;
     }
 
-    for (auto x : st)
-        cout << x << " ";
+    for (auto &x : ump)
+    {
+        if (x.second != 0)
+            cout << x.first << " ";
+    }
 
     return 0;
 }
