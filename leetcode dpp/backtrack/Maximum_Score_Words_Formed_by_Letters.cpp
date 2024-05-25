@@ -16,9 +16,11 @@ public:
             ans = max(ans, sc);
             return;
         }
+        // pick
         solve(idx + 1, words, score);
         for (auto i : words[idx])
             b[i - 'a']++;
+        // not pick
         solve(idx + 1, words, score);
         for (auto i : words[idx])
             b[i - 'a']--;
