@@ -20,7 +20,7 @@ void solve()
         // Sort A in descending order
         sort(A.begin(), A.end(), greater<int>());
 
-        // Construct B based on the sorted A
+        // Construct B based on the sorCAA                                                  1ted A
         vector<int> B(N);
         B[0] = A[0];
         for (int i = 1; i < N; ++i)
