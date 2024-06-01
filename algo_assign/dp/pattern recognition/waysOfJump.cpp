@@ -32,7 +32,7 @@ int main()
     while (_--)
     {
         cin >> n >> dleft;
-        dp.assign(n, vector<int>(dleft, -1));
+        dp.assign(n, vector<int>(dleft + 1, -1));
         a.resize(n);
         rep(i, 0, n) cin >> a[i];
         cout << solve(0, dleft) << "\n";
