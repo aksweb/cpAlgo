@@ -4,31 +4,43 @@
 // ░░░░░██║░░░░╚═══██╗██╔══╝░░░░░██║░░░██╔══╝░░██║╚████║
 // ░░░░░██║░░░██████╔╝███████╗░░░██║░░░███████╗██║░╚███║
 // ░░░░░╚═╝░░░╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
-
 #include <bits/stdc++.h>
-#define ll long long int
 using namespace std;
 #define ll long long int
+#define rep(i, m, n) for (ll i = m; i < n; i++)
 #define br << endl
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    int T;
+    cin >> T;
 
-    int _;
-    cin >> _;
-
-    while (_--)
+    while (T--)
     {
-        int n;
-        cin >> n;
+        int P, X, R1;
+        int N, Y, R2;
 
-        for (int i = 0; i < n - 1; ++i)
+        cin >> P >> X >> R1;
+        cin >> N >> Y >> R2;
+
+        double timePaul = static_cast<double>(P) / X + R1;
+        double timeNina = static_cast<double>(N) / Y + R2;
+
+        if (timePaul < timeNina)
         {
-            cout << 3 << " ";
+            cout << "PAUL" br;
+            cout << static_cast<int>(timePaul) br;
         }
-        cout << 1 br;
+        else if (timeNina < timePaul)
+        {
+            cout << "NINA" br;
+            cout << static_cast<int>(timeNina) br;
+        }
+        else
+        {
+            cout << "BOTH" br;
+            cout << static_cast<int>(timePaul) br; 
+        }
     }
 
     return 0;

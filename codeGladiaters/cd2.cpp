@@ -4,32 +4,46 @@
 // ░░░░░██║░░░░╚═══██╗██╔══╝░░░░░██║░░░██╔══╝░░██║╚████║
 // ░░░░░██║░░░██████╔╝███████╗░░░██║░░░███████╗██║░╚███║
 // ░░░░░╚═╝░░░╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
-
 #include <bits/stdc++.h>
-#define ll long long int
 using namespace std;
 #define ll long long int
+#define rep(i, m, n) for (ll i = m; i < n; i++)
 #define br << endl
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    int n;
+    cin >> n;
+    vector<int> a(n);
+    rep(i, 0, n) cin >> a[i];
 
-    int _;
-    cin >> _;
+    sort(a.begin(), a.end());
 
-    while (_--)
+    int max_teams = 0;
+
+    for (int s = 2; s <= 2 * n; s++)
     {
-        int n;
-        cin >> n;
+        int temp_teams = 0;
+        vector<bool> used(n, false); 
 
-        for (int i = 0; i < n - 1; ++i)
+        for (int i = 0; i < n; i++)
         {
-            cout << 3 << " ";
+            if (used[i])
+                continue;
+
+            for (int j = i + 1; j < n; j++)
+            {
+                if (!used[j] && a[i] + a[j] == s)
+                {
+                    used[i] = used[j] = true;
+                    temp_teams++;
+                    break;
+                }
+            }
         }
-        cout << 1 br;
+        max_teams = max(max_teams, temp_teams);
     }
 
+    cout << max_teams br;
     return 0;
 }

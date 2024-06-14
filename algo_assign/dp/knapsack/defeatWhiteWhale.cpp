@@ -1,54 +1,55 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <climits>
+// ░░████████╗░██████╗███████╗░████████╗███████╗███╗░░██╗
+// ░░╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝████╗░██║
+// ░░░░░██║░░░╚█████╗░█████╗░░░░░██║░░░█████╗░░██╔██╗██║
+// ░░░░░██║░░░░╚═══██╗██╔══╝░░░░░██║░░░██╔══╝░░██║╚████║
+// ░░░░░██║░░░██████╔╝███████╗░░░██║░░░███████╗██║░╚███║
+// ░░░░░╚═╝░░░╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
 
+#include <bits/stdc++.h>
 using namespace std;
+#define ll long long int
+#define rep(i, m, n) for (ll i = m; i < n; i++)
+#define br << endl
 
-struct Weapon
+vector<int> damage, limit, disp;
+vector<vector<int>> dp;
+int n, D;
+int solver(int ind, int d)
 {
-    int damage;
-    int max_uses;
-    int displeasure;
-};
+    if (d <= 0)
+        return 0;
+    if (ind == n)
+        return INT_MAX;
+    if (dp[ind][d] != -1)
+        return dp[ind][d];
+    // int take = disp[ind] + solver(ind + 1, d - damage[ind]);
+    int take = disp[ind] + solver(ind, d - damage[ind]);
+    int not_take = solver(ind + 1, d);
 
-bool compare(const Weapon &a, const Weapon &b)
-{
-    return a.displeasure < b.displeasure;
+    return dp[ind][d] = min(take, not_take);
 }
-
-void sind(int j=)
 int main()
 {
-    int N, D;
-    cin >> N >> D;
 
-    vector<Weapon> weapons(N);
-    for (int i = 0; i < N; ++i)
+    cin >> n >> D;
+    damage.resize(n);
+    limit.resize(n);
+    disp.resize(n);
+
+    rep(i, 0, n)
     {
-        cin >> weapons[i].damage >> weapons[i].max_uses >> weapons[i].displeasure;
-    }
-
-    sort(weapons.begin(), weapons.end(), compare);
-
-    int total_displeasure = 0;
-    int damage_done = 0;
-
-    for (int i = 0; i < N && damage_done < D; ++i)
-    {
-        int uses_needed = (D - damage_done + weapons[i].damage - 1) / weapons[i].damage; // ceiling division
-        if (uses_needed <= weapons[i].max_uses)
+        cin >> damage[i];
+        cin >> limit[i];
+        cin >> disp[i];
+        D -= (limit[i] * damage[i]);
+        if (D <= 0)
         {
-            damage_done += uses_needed * weapons[i].damage;
-        }
-        else
-        {
-            damage_done += weapons[i].max_uses * weapons[i].damage;
-            total_displeasure += (uses_needed - weapons[i].max_uses) * weapons[i].displeasure;
+            cout << 0 br;
+            return 0;
         }
     }
 
-    cout << total_displeasure << endl;
-
+    dp.assign(n + 1, vector<int>(D + 1, -1));
+    cout << solver(0, D);
     return 0;
 }
