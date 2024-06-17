@@ -4,42 +4,58 @@
 // ░░░░░██║░░░░╚═══██╗██╔══╝░░░░░██║░░░██╔══╝░░██║╚████║
 // ░░░░░██║░░░██████╔╝███████╗░░░██║░░░███████╗██║░╚███║
 // ░░░░░╚═╝░░░╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
-
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long int
-#define rep(i, m, n) for (ll i = m; i < n; i++)
-#define br << endl
+
 int main()
 {
-    int n;
-    cin >> n;
-    n *= 2;
-    vector<int> vec(n);
-    for (int &x : vec)
-        cin >> x;
-    sort(vec.begin(), vec.end());
-    int ans = 1e9;
+    int n, m;
+    cin >> n >> m;
+    vector<string> v(n);
     for (int i = 0; i < n; ++i)
     {
-        for (int j = i + 1; j < n; ++j)
+        cin >> v[i];
+    }
+
+    int min_stands = n;
+
+    for (int mask = 1; mask < (1 << n); ++mask)
+    {
+        vector<bool> flavors(m, false);
+        int count_stands = 0;
+
+        for (int i = 0; i < n; ++i)
         {
-            vector<int> tmp;
-            for (int k = 0; k < n; ++k)
+            if (mask & (1 << i))
             {
-                if (k != i and k != j)
+                ++count_stands;
+                for (int j = 0; j < m; ++j)
                 {
-                    tmp.push_back(vec[k]);
+                    if (v[i][j] == 'o')
+                    {
+                        flavors[j] = true;
+                    }
                 }
             }
-            int tmp_ans = 0;
-            for (int k = 1; k < tmp.size(); k += 2)
+        }
+
+        bool all_covered = true;
+        for (int j = 0; j < m; ++j)
+        {
+            if (!flavors[j])
             {
-                tmp_ans += tmp[k] - tmp[k - 1];
+                all_covered = false;
+                break;
             }
-            ans = min(ans, tmp_ans);
+        }
+
+        if (all_covered)
+        {
+            min_stands = min(min_stands, count_stands);
         }
     }
-    cout << ans << endl;
+
+    cout << min_stands << endl;
+
     return 0;
 }

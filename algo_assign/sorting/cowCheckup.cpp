@@ -9,37 +9,40 @@
 using namespace std;
 #define ll long long int
 #define rep(i, m, n) for (ll i = m; i < n; i++)
+#define pb push_back
 #define br << endl
+
 int main()
 {
+
     int n;
     cin >> n;
-    n *= 2;
-    vector<int> vec(n);
-    for (int &x : vec)
-        cin >> x;
-    sort(vec.begin(), vec.end());
-    int ans = 1e9;
-    for (int i = 0; i < n; ++i)
+    vector<pair<ll, ll>> time(n);
+    rep(i, 0, n)
     {
-        for (int j = i + 1; j < n; ++j)
+        ll a, c;
+        cin >> a >> c;
+        time.pb({a, c});
+    }
+    ll ans = 0;
+    ll prevServiceTime = 0;
+    sort(time.begin(), time.end());
+    for (auto x : time)
+    {
+        ll arrival = x.first;
+        ll serviceTime = x.second;
+        if (arrival <= prevServiceTime)
         {
-            vector<int> tmp;
-            for (int k = 0; k < n; ++k)
-            {
-                if (k != i and k != j)
-                {
-                    tmp.push_back(vec[k]);
-                }
-            }
-            int tmp_ans = 0;
-            for (int k = 1; k < tmp.size(); k += 2)
-            {
-                tmp_ans += tmp[k] - tmp[k - 1];
-            }
-            ans = min(ans, tmp_ans);
+            ans += serviceTime;
+            prevServiceTime = ans;
+        }
+        else
+        {
+            ll waitingTIme = arrival - prevServiceTime;
+            ans += waitingTIme + serviceTime;
+            prevServiceTime = ans;
         }
     }
-    cout << ans << endl;
+    cout << ans br;
     return 0;
 }

@@ -56,6 +56,7 @@
         "xlocinfo": "cpp",
         "xlocnum": "cpp",
         "xstddef": "cpp",
-        "xtr1common": "cpp"
+        "xtr1common": "cpp",
+        "unordered_map": "cpp"
     }
 }
