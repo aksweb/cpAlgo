@@ -1,41 +1,50 @@
-// TSETEN RGIPT
-// ΣDAY
 #include <bits/stdc++.h>
-#define ll long long int
 using namespace std;
-#define ll long long int
-#define br << endl
-#define pb push_back
-#define rep(i, m, n) for (ll i = m; i < n; i++)
-#define gcd __gcd
-const ll MOD = 1e9 + 7;
 
-int n, m;
-string a, b;
-vector<vector<int>> dp;
+int C, Z, O;
+vector<vector<vector<int>>> dp;
+vector<string> v;
 
-int make_dp(int i, int j)
+pair<int, int> help(int idx)
 {
-    if (i >= n || j >= m)
+    int zc = 0;
+    for (char ch : v[idx])
+    {
+        if (ch == '0')
+            zc++;
+    }
+    return {zc, v[idx].size() - zc};
+}
+int solve(int z, int o, int idx)
+{
+    if (idx < 0)
         return 0;
 
-    if (dp[i][j] != -1)
-        return dp[i][j];
-    if (a[i] == b[j])
-    {
-        return dp[i][j] = 1 + make_dp(i + 1, j + 1);
-    }
+    // mem
+    if (dp[idx][z][o] != -1)
+        return dp[idx][z][o];
 
-    return dp[i][j] = max(make_dp(i + 1, j), make_dp(i, j + 1));
+    int take = -1;
+    pair<int, int> cnt = help(idx);
+
+    if (cnt.first <= z && cnt.second <= o)
+    {
+        take = solve(z - cnt.first, o - cnt.second, idx - 1) + 1;
+    }
+    int not_take = solve(z, o, idx - 1);
+
+    return dp[idx][z][o] = max(take, not_take);
 }
 int main()
 {
-    cin >> a >> b;
-    n = a.length();
-    m = b.length();
-    dp.assign(n + 1, vector<int>(m + 1, -1));
-    // Length of SCS=Length of 𝑎 + Length of 𝑏 − Length of LCS
-    cout << n + m - make_dp(0, 0);
+    cin >> C >> Z >> O;
+    v.resize(C);
+    dp.resize(C, vector<vector<int>>(Z + 1, vector<int>(O + 1, -1)));
+
+    for (int i = 0; i < C; i++)
+        cin >> v[i];
+
+    cout << solve(Z, O, C - 1);
 
     return 0;
 }

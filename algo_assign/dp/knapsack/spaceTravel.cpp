@@ -1,61 +1,74 @@
-// ░░████████╗░██████╗███████╗░████████╗███████╗███╗░░██╗
-// ░░╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝████╗░██║
-// ░░░░░██║░░░╚█████╗░█████╗░░░░░██║░░░█████╗░░██╔██╗██║
-// ░░░░░██║░░░░╚═══██╗██╔══╝░░░░░██║░░░██╔══╝░░██║╚████║
-// ░░░░░██║░░░██████╔╝███████╗░░░██║░░░███████╗██║░╚███║
-// ░░░░░╚═╝░░░╚═════╝░╚══════╝░░░╚═╝░░░╚══════╝╚═╝░░╚══╝
-
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
-#define rep(i, m, n) for (ll i = m; i < n; i++)
-#define br << endl
 
 const int NINF = INT_MIN;
 vector<int> G, M, V;
-vector<vector<int>> dp;
+vector<vector<ll>> dp;
 vector<vector<int>> ans;
 
-int n, f;
+ll n, F;
 
-int solver(int ind, int currMass, vector<int> temp)
+ll solver(ll idx, ll currMass, vector<int> temp)
 {
-    if (currMass * G[ind] > T)
+    if (idx == n)
     {
         ans.push_back(temp);
         return 0;
     }
-    if (ind == n)
-        return NINF;
-
-    int take = NINF;
-    if ((M[ind] + currMass) * G[ind] <= T)
+    // memo
+    if (dp[idx][currMass] != -1)
+        return dp[idx][currMass];
+    ll take = NINF;
+    if ((M[idx] + currMass) * G[idx] <= F)
     {
-
-        temp.push_back(V[ind]);
-        take = V[ind] + solver(ind + 1, currMass + M[ind], temp);
+        temp.push_back(idx + 1); // store the planet number
+        take = V[idx] + solver(idx + 1, currMass + M[idx], temp);
         temp.pop_back();
     }
-    int not_take = solver(ind + 1, currMass, temp);
-    return dp[ind][currMass] = max(take, not_take);
+    ll not_take = solver(idx + 1, currMass, temp);
+    return dp[idx][currMass] = max(take, not_take);
 }
 
 int main()
 {
-
-    cin >> n >> T;
+    cin >> n >> F;
     G.resize(n);
     M.resize(n);
     V.resize(n);
 
-    rep(i, 0, n)
+    for (int i = 0; i < n; i++)
     {
-        cin >> G.[i];
-        cin >> M.[i];
-        cin >> V.[i];
+        cin >> G[i] >> M[i] >> V[i];
     }
 
-    dp.assign(n + 1, vector<int>(D + 1, -1));
-    // cout << solver(0, D);
+    dp.assign(n + 1, vector<ll>(F + 1, -1));
+    vector<int> temp;
+    solver(0, 0, temp);
+
+    // Find the best solution
+    ll maxVal = NINF;
+    vector<int> bestAns;
+    for (auto &a : ans)
+    {
+        ll currVal = 0;
+        for (int planet : a)
+        {
+            currVal += V[planet - 1];
+        }
+        if (currVal > maxVal)
+        {
+            maxVal = currVal;
+            bestAns = a;
+        }
+    }
+
+    cout << bestAns.size() << endl;
+    for (int planet : bestAns)
+    {
+        cout << planet << " ";
+    }
+    cout << endl;
+
     return 0;
 }
