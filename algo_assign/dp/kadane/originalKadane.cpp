@@ -13,7 +13,7 @@ int kadane(vector<int> &a){
 int main()
 {
 
-    int n;
+    int n; 
     cin >> n;
     dp.resize(n, 0);
 
