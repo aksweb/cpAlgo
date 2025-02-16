@@ -1,0 +1,368 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2024-11-27 15:18:10
+count workspace : c:\Users\Abhishekh\Documents\GitHub\cpAlgo\algo_assign
+total files : 356
+total code lines : 11849
+total comment lines : 1231
+total blank lines : 1225
+
+.cph\.1.cpp_de8ffd46f6293f80fa871858bf97930a.prob, code is 1, comment is 0, blank is 0.
+.cph\.2.cpp_fe47180b0f4a48bfce4552672cf19598.prob, code is 1, comment is 0, blank is 0.
+.cph\.AND_Quest.cpp_d57e10a7509baef4b2a45830f6fee9e3.prob, code is 1, comment is 0, blank is 0.
+.cph\.balloon_game.cpp_06fa6f3fbb0e2a48ebff0f7055916703.prob, code is 1, comment is 0, blank is 0.
+.cph\.candies.cpp_3c01d51a80a0d289514d9caa533f6034.prob, code is 1, comment is 0, blank is 0.
+.cph\.Moneymaking.cpp_71f0e0ade8bbf0f8fabad23f33f7c094.prob, code is 1, comment is 0, blank is 0.
+.cph\.Red_Blue_Sort.cpp_8b26ad4bc1418e3ea92e881b354e5f7c.prob, code is 1, comment is 0, blank is 0.
+.cph\.rever.cpp_00dedf619e8783992a89971ab4da4e12.prob, code is 1, comment is 0, blank is 0.
+.cph\.Selling_Donuts.cpp_59d07ec0577657c322452615309ac3e3.prob, code is 1, comment is 0, blank is 0.
+.cph\.Small_Indices.cpp_8eb0e1ad71e560341f17ee7704a451d9.prob, code is 1, comment is 0, blank is 0.
+.cph\.subtreeKthmax.cpp_0dc9e36da6756efe6af5a72482030880.prob, code is 1, comment is 0, blank is 0.
+.cph\.Temporary_Temperature.cpp_e18808dc3eb1c3f7198c3e0c9b8966fb.prob, code is 1, comment is 0, blank is 0.
+.cph\.Two_Cards.cpp_712629ebbcb2672485ad1cd09702deb6.prob, code is 1, comment is 0, blank is 0.
+.cph\.Unsatisfying_Array.cpp_a73c87f386c1cf51168fc76f3755ce0f.prob, code is 1, comment is 0, blank is 0.
+11bareMin.cpp, code is 13, comment is 2, blank is 2.
+1oj\class\backend\.env, code is 2, comment is 1, blank is 0.
+1oj\class\backend\.gitignore, code is 97, comment is 7, blank is 33.
+1oj\class\backend\database\db.js, code is 14, comment is 0, blank is 2.
+1oj\class\backend\index.js, code is 70, comment is 18, blank is 19.
+1oj\class\backend\models\Users.js, code is 8, comment is 0, blank is 2.
+1oj\class\backend\package-lock.json, code is 2321, comment is 0, blank is 1.
+1oj\class\backend\package.json, code is 21, comment is 0, blank is 0.
+1oj\Schemas\use.js, code is 38, comment is 2, blank is 2.
+AND_Quest.cpp, code is 88, comment is 3, blank is 12.
+array\.cph\.closest_refuge.cpp_e61beb393b19b2a59ac501c024a3172f.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.largest_subarrsum_7.cpp_011198d567baa1b762b8b38ac925760e.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.range_queries.cpp_fde25f53350a7616b431f3c7257a9442.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.sorted_square.cpp_5161f4f72a24ae778d13ecc3d8d46968.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.sorted_square.cpp_985d54821c2fb912f0a932628c2881aa.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.treasure_room.cpp_bf7cd29247c0881731bf67aab7af813e.prob, code is 1, comment is 0, blank is 0.
+array\.cph\.treasure_room_3key.cpp_794298306056d87dffe87ddc8c339325.prob, code is 1, comment is 0, blank is 0.
+array\closest_refuge.cpp, code is 54, comment is 10, blank is 6.
+array\largest_subarrsum_7.cpp, code is 55, comment is 10, blank is 8.
+array\range_queries.cpp, code is 57, comment is 10, blank is 7.
+array\sorted_square.cpp, code is 81, comment is 10, blank is 7.
+array\treasure_room_2key.cpp, code is 62, comment is 10, blank is 6.
+array\treasure_room_3key.cpp, code is 69, comment is 12, blank is 6.
+balloon_game.cpp, code is 54, comment is 11, blank is 11.
+balooonCopy.cpp, code is 50, comment is 15, blank is 13.
+bin.cpp, code is 43, comment is 3, blank is 5.
+binary search\.cph\.2d_matrix.cpp_167563fd069799af9fca2ae304fc58d0.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.direct_b_s.cpp_5789d7fd00828640bf0a4a69a46001e5.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.first_last_ind.cpp_2633c9308dcc09366b48427c9602407a.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.range.cpp_f07c7b168ac1283c5698d66f21ecf72b.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.sba.cpp_55d04e405d1984b6794d0fab6f03efc9.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.sqrt.cpp_0ab9552a24064a5c9ac8fbe9fcaf7554.prob, code is 1, comment is 0, blank is 0.
+binary search\.cph\.sqrt.cpp_81c81af0eb7f9fa2b951c0ac5923c516.prob, code is 1, comment is 0, blank is 0.
+binary search\2d_matrix.bin, it is a binary file.
+binary search\2d_matrix.cpp, code is 67, comment is 9, blank is 6.
+binary search\direct_b_s.bin, it is a binary file.
+binary search\direct_b_s.cpp, code is 56, comment is 8, blank is 6.
+binary search\first_last_ind.bin, it is a binary file.
+binary search\first_last_ind.cpp, code is 79, comment is 10, blank is 9.
+binary search\range.bin, it is a binary file.
+binary search\range.cpp, code is 77, comment is 10, blank is 8.
+binary search\sba.bin, it is a binary file.
+binary search\sba.cpp, code is 52, comment is 8, blank is 7.
+binary search\sqrt.bin, it is a binary file.
+binary search\sqrt.cpp, code is 51, comment is 9, blank is 6.
+binary_search_addv\.cph\.candies.cpp_3406866c9b746c4d8efd0977883f0981.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\.cph\.corona.cpp_78a416e068eb6d9b1678dd1912ac6b33.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\.cph\.packing.cpp_a4a8f6bde4d029339b2e2d4ba9dbf030.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\.cph\.piles_probml.cpp_5d6feb80480f9ce72d01db5dc5328e36.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\.cph\.rotated_arry.cpp_5dfbfc7e295859995b8357423a580fae.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\.cph\.transport.cpp_81afb7d09145240a1a955e24a518a9d9.prob, code is 1, comment is 0, blank is 0.
+binary_search_addv\candies.cpp, code is 62, comment is 10, blank is 9.
+binary_search_addv\corona.cpp, code is 66, comment is 10, blank is 10.
+binary_search_addv\doubt_packing.cpp, code is 41, comment is 1, blank is 7.
+binary_search_addv\nc.cpp, code is 52, comment is 0, blank is 6.
+binary_search_addv\packing.cpp, code is 67, comment is 15, blank is 11.
+binary_search_addv\piles_probml.cpp, code is 71, comment is 14, blank is 10.
+binary_search_addv\rotated_arr_search.cpp, code is 42, comment is 8, blank is 8.
+binary_search_addv\rotated_arry.cpp, code is 52, comment is 8, blank is 9.
+binary_search_addv\transport.cpp, code is 84, comment is 10, blank is 6.
+bit man\.cph\.booleanEval.cpp_55f87f1663d770fc0b85b0fce3365077.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.flipBits.cpp_a8bdd856716763a52b8fdc39c453edff.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.GoodSubarray.cpp_67fc5531b5c03eeae82435738289f6d7.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.kthBitCheck.cpp_aa48be180c725051a6a457a9749d7fb6.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.maxAnd.cpp_d051c536c3d20f06080404d96a75f6a1.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.MaxConsecOnes.cpp_4d19dd4a9749162001d5b3481862ff04.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.maxXOR_y.cpp_5baf530104cd417bb8dd32a8ce7510d2.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.n.cpp_128fcbc1c8d29db20ee14e413356a5f3.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.RockPaperScissor.cpp_c96db9cae7a7498bee5a63a983490b49.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.sc.cpp_910b190fa42cd35d2b55fb4b01576ca8.prob, code is 1, comment is 0, blank is 0.
+bit man\.cph\.XorAndInversion.cpp_2f0bb3156bcf11d93ee89c99093cfdc4.prob, code is 1, comment is 0, blank is 0.
+bit man\booleanEval.bin, it is a binary file.
+bit man\booleanEval.cpp, code is 38, comment is 0, blank is 3.
+bit man\class\3same1dif.cpp, code is 34, comment is 2, blank is 2.
+bit man\flipBits.bin, it is a binary file.
+bit man\flipBits.cpp, code is 11, comment is 0, blank is 3.
+bit man\GoodSubarray.bin, it is a binary file.
+bit man\GoodSubarray.cpp, code is 30, comment is 0, blank is 2.
+bit man\kthBitCheck.bin, it is a binary file.
+bit man\kthBitCheck.cpp, code is 18, comment is 3, blank is 3.
+bit man\maxAnd.bin, it is a binary file.
+bit man\maxAnd.cpp, code is 58, comment is 13, blank is 8.
+bit man\MaxConsecOnes.bin, it is a binary file.
+bit man\MaxConsecOnes.cpp, code is 45, comment is 13, blank is 11.
+bit man\maxXOR_y.bin, it is a binary file.
+bit man\maxXOR_y.cpp, code is 39, comment is 0, blank is 1.
+bit man\RockPaperScissor.bin, it is a binary file.
+bit man\RockPaperScissor.cpp, code is 49, comment is 3, blank is 7.
+bit man\XorAndInversion.bin, it is a binary file.
+bit man\XorAndInversion.cpp, code is 29, comment is 1, blank is 3.
+bst\2Insertion.cpp, code is 46, comment is 3, blank is 3.
+bst\3RangeSumOfBST.cpp, code is 50, comment is 2, blank is 4.
+bst\5SortedListToBST.cpp, code is 26, comment is 21, blank is 1.
+bst\6TwoSum.cpp, code is 7, comment is 11, blank is 1.
+bst\serach.cpp, code is 18, comment is 0, blank is 1.
+candies.cpp, code is 38, comment is 3, blank is 5.
+cont\.cph\.1.cpp_eae530c78d36a156a47f8676087e8871.prob, code is 1, comment is 0, blank is 0.
+cont\.cph\.3.cpp_7c721fd0c565e50ca1cb50edda8ba1f5.prob, code is 1, comment is 0, blank is 0.
+cont\.cph\.BigCircle.cpp_d2b573c788da3855c67091eedc55386a.prob, code is 1, comment is 0, blank is 0.
+cont\1.cpp, code is 71, comment is 2, blank is 8.
+cont\3.cpp, code is 36, comment is 5, blank is 8.
+cont\BigCircle.cpp, code is 100, comment is 2, blank is 7.
+dp1.cpp, code is 8, comment is 0, blank is 6.
+dp\cses\.cph\.Dice_Combinations.cpp_a30928a32f7c3323769695e7f548794f.prob, code is 1, comment is 0, blank is 0.
+dp\cses\Dice_Combinations.cpp, code is 60, comment is 5, blank is 13.
+dp\cses\diceCombination.cpp, code is 60, comment is 5, blank is 13.
+dp\kadane\.cph\.originalKadane.cpp_b0bb9b234d569033e913ec618c61df10.prob, code is 1, comment is 0, blank is 0.
+dp\kadane\originalKadane.cpp, code is 19, comment is 1, blank is 7.
+dp\knapsack\.cph\.bareMinDp.cpp_eef5402ebd4aa2a298f59b16e4330141.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.cd1.cpp_b3b41f0c468891d9386b67576629a301.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.cd2.cpp_4e7b61f958a5cd592e29635b58fc5fc6.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.defeatWhiteWhale.cpp_8d3f8ec417f010eedbe69d173ab1f476.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.doubleKnapack.cpp_c52e21cfa3601fcad6fa71ba996d6b61.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.fractional.cpp_a0655bd7fd4d97c332d545527a88b165.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.gigafactories.cpp_a3d590b9f149459f321ae4df3f514edb.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.keto.cpp_f443c3c25154cb1ae10c85dbaf1774af.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.sherlock.cpp_1e6e0d54f0c7de14f2b19dd0607b3d52.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\.cph\.spaceTravel.cpp_7e6146009becfe1d2017d20d7d340283.prob, code is 1, comment is 0, blank is 0.
+dp\knapsack\bareMinDp.cpp, code is 48, comment is 4, blank is 8.
+dp\knapsack\defeatWhiteWhale.cpp, code is 42, comment is 7, blank is 6.
+dp\knapsack\doubleKnapack.cpp, code is 44, comment is 6, blank is 9.
+dp\knapsack\fractional.cpp, code is 45, comment is 2, blank is 6.
+dp\knapsack\gigafactories.cpp, code is 43, comment is 2, blank is 4.
+dp\knapsack\keto.cpp, code is 52, comment is 4, blank is 7.
+dp\knapsack\sherlock.cpp, code is 40, comment is 1, blank is 9.
+dp\knapsack\spaceTravel.cpp, code is 63, comment is 3, blank is 9.
+dp\pattern recognition\.cph\.equalWeights.cpp_dc068678314c856161ec2e3e30fc9bb6.prob, code is 1, comment is 0, blank is 0.
+dp\pattern recognition\.cph\.jump destination.cpp_4ad81801e9b83bc1506a26526a1446c9.prob, code is 1, comment is 0, blank is 0.
+dp\pattern recognition\.cph\.makeSringEqual.cpp_f8f40f491b5268554ebc49d91842fbbf.prob, code is 1, comment is 0, blank is 0.
+dp\pattern recognition\.cph\.ways_combination.cpp_b773a009d13dece31d2eb59092500020.prob, code is 1, comment is 0, blank is 0.
+dp\pattern recognition\.cph\.waysOfJump.cpp_8d46b98e200445e97e078489a10e4ede.prob, code is 1, comment is 0, blank is 0.
+dp\pattern recognition\equalWeights.cpp, code is 47, comment is 5, blank is 2.
+dp\pattern recognition\jump destination.bin, it is a binary file.
+dp\pattern recognition\jump destination.cpp, code is 41, comment is 4, blank is 4.
+dp\pattern recognition\makeSringEqual.bin, it is a binary file.
+dp\pattern recognition\makeSringEqual.cpp, code is 36, comment is 0, blank is 1.
+dp\pattern recognition\tessstLambda.cpp, code is 21, comment is 3, blank is 2.
+dp\pattern recognition\tessstLambda.exe, it is a binary file.
+dp\pattern recognition\ways_combination.cpp, code is 29, comment is 4, blank is 4.
+dp\pattern recognition\waysOfJump.bin, it is a binary file.
+dp\pattern recognition\waysOfJump.cpp, code is 36, comment is 2, blank is 3.
+dp\subsequence\.cph\.all_LCS2.cpp_f64e31d6c4320e7a97ca8e3d74971587.prob, code is 1, comment is 0, blank is 0.
+dp\subsequence\.cph\.LCS1.cpp_5d921fe82a1e7676a28f980c4eb50da8.prob, code is 1, comment is 0, blank is 0.
+dp\subsequence\.cph\.LCS2_contruction.cpp_cc12ab55c8afd3646cee7819b823ed86.prob, code is 1, comment is 0, blank is 0.
+dp\subsequence\.cph\.longest_palindromic.cpp_e89c9604f9ce34d5099dbd70bcbb2c4f.prob, code is 1, comment is 0, blank is 0.
+dp\subsequence\.cph\.Shortest_Supersequence.cpp_8b62bc39948bac18060e0c45be6c96ca.prob, code is 1, comment is 0, blank is 0.
+dp\subsequence\all_LCS2.cpp, code is 67, comment is 8, blank is 13.
+dp\subsequence\LCS1.cpp, code is 33, comment is 2, blank is 4.
+dp\subsequence\LCS2_contruction.cpp, code is 59, comment is 3, blank is 4.
+dp\subsequence\longest_palindromic.cpp, code is 35, comment is 2, blank is 5.
+dp\subsequence\Shortest_Supersequence.cpp, code is 33, comment is 3, blank is 5.
+dsu\isGraphTree.cpp, code is 61, comment is 13, blank is 7.
+eulerTour.cpp, code is 41, comment is 7, blank is 10.
+g_ques\.cph\.bipartatite.cpp_eb54346d1f7b449d8df81c6cfd75b6a1.prob, code is 1, comment is 0, blank is 0.
+g_ques\bipartatite.cpp, code is 114, comment is 17, blank is 28.
+graph\.cph\.matrixToList.cpp_3e7502020c287c227bfcecd4d0417ba5.prob, code is 1, comment is 0, blank is 0.
+graph\.cph\.minimumJumps.cpp_b1947e75b46d914b76c35d7af65c758a.prob, code is 1, comment is 0, blank is 0.
+graph\.cph\.mutliSourceBFS.cpp_ef88b09006084e92f38f4114e32b33b8.prob, code is 1, comment is 0, blank is 0.
+graph\.cph\.sourceToDestDAG.cpp_3e9cf3ba0cbad217c745b6739fb45e4a.prob, code is 1, comment is 0, blank is 0.
+graph\.cph\.TravCouples.cpp_f1311ae8020a35e901c8f2296d713c07.prob, code is 1, comment is 0, blank is 0.
+graph\concepts\.cph\.cycleDet.cpp_ceed2288c9995ee0b95ddc3941ec8128.prob, code is 1, comment is 0, blank is 0.
+graph\concepts\bfsBareMin.cpp, code is 97, comment is 9, blank is 9.
+graph\concepts\bfsBareMin.exe, it is a binary file.
+graph\concepts\CYC.cpp, code is 69, comment is 1, blank is 11.
+graph\concepts\cycleDet.cpp, code is 49, comment is 0, blank is 8.
+graph\concepts\cycleInUGraphBFS.cpp, code is 40, comment is 1, blank is 3.
+graph\concepts\haha\.cph\.bossEmp.cpp_cabb595349078b1e4d4047d03367e04c.prob, code is 1, comment is 0, blank is 0.
+graph\concepts\haha\.cph\.diameter.cpp_22298fbfbf6aeabbead04ef4f43322d4.prob, code is 1, comment is 0, blank is 0.
+graph\concepts\haha\.cph\.mostProfitTeam.cpp_b4cddb55ea60f6557d075d1643bd27dd.prob, code is 1, comment is 0, blank is 0.
+graph\concepts\haha\bossEmp.cpp, code is 45, comment is 7, blank is 7.
+graph\concepts\haha\c1.cpp, code is 103, comment is 24, blank is 9.
+graph\concepts\haha\c1.exe, it is a binary file.
+graph\concepts\haha\c2.cpp, code is 32, comment is 4, blank is 10.
+graph\concepts\haha\c2.exe, it is a binary file.
+graph\concepts\haha\c3.cpp, code is 29, comment is 6, blank is 9.
+graph\concepts\haha\c3.exe, it is a binary file.
+graph\concepts\haha\diameter.cpp, code is 63, comment is 10, blank is 6.
+graph\concepts\haha\mostProfitTeam.cpp, code is 51, comment is 8, blank is 7.
+graph\joboverflow\.cph\.area.cpp_a3e7179c32b25773f940e36195e634a6.prob, code is 1, comment is 0, blank is 0.
+graph\joboverflow\.cph\.officeDesk.cpp_629106a0fe7243e4873997d4fa8e9e69.prob, code is 1, comment is 0, blank is 0.
+graph\joboverflow\area.cpp, code is 55, comment is 7, blank is 8.
+graph\joboverflow\areaMaxIsland.cpp, code is 44, comment is 0, blank is 12.
+graph\joboverflow\diff.cpp, code is 43, comment is 0, blank is 2.
+graph\joboverflow\diff2.cpp, code is 43, comment is 0, blank is 2.
+graph\joboverflow\officeDesk.cpp, code is 71, comment is 4, blank is 12.
+graph\matrixToList.cpp, code is 46, comment is 8, blank is 7.
+graph\minimumJumps.cpp, code is 63, comment is 7, blank is 7.
+graph\mutliSourceBFS.cpp, code is 69, comment is 4, blank is 4.
+graph\mutliSourceBFS.exe, it is a binary file.
+graph\sourceToDestDAG.cpp, code is 107, comment is 12, blank is 10.
+graph\TravCouples.cpp, code is 61, comment is 7, blank is 8.
+graph\travellingCouples.cpp, code is 52, comment is 0, blank is 2.
+graph\warchest1\.cph\.avo.cpp_83191e9d4baf478aacbfcf3b98acb321.prob, code is 1, comment is 0, blank is 0.
+graph\warchest1\.cph\.avoidingCities.cpp_3f2a1b67322d002cda8f3cfc3501b8f9.prob, code is 1, comment is 0, blank is 0.
+graph\warchest1\.cph\.twoOcean.cpp_f1067e25035bfd790a82a50ad4f54b60.prob, code is 1, comment is 0, blank is 0.
+graph\warchest1\avo.cpp, code is 52, comment is 0, blank is 10.
+graph\warchest1\avoidingCities.cpp, code is 57, comment is 7, blank is 2.
+graph\warchest1\twoOcean.cpp, code is 92, comment is 1, blank is 5.
+hashing\.cph\.union.cpp_735abd924577bf7c79d81e9a7c6fd05f.prob, code is 1, comment is 0, blank is 0.
+hashing\.cph\.UniqueInWinK.cpp_37906a396f66dabe2e51e8376626d5ef.prob, code is 1, comment is 0, blank is 0.
+hashing\.cph\.zeroSum.cpp_cb3eb49c8e0ed376f710e2f1dd0794e8.prob, code is 1, comment is 0, blank is 0.
+hashing\chainingUsingClass.cpp, code is 49, comment is 0, blank is 7.
+hashing\chainingUsingClass.exe, it is a binary file.
+hashing\chainingUsingStruct.cpp, code is 41, comment is 0, blank is 2.
+hashing\chainingUsingStruct.exe, it is a binary file.
+hashing\DistEleIn2UnsArr.cpp, code is 0, comment is 0, blank is 0.
+hashing\incFreq.cpp, code is 0, comment is 0, blank is 0.
+hashing\LinAdd.cpp, code is 0, comment is 0, blank is 0.
+hashing\maxFreq.cpp, code is 17, comment is 0, blank is 6.
+hashing\openAdressing.cpp, code is 82, comment is 0, blank is 4.
+hashing\union.cpp, code is 27, comment is 2, blank is 4.
+hashing\UniqueInWinK.cpp, code is 42, comment is 0, blank is 3.
+hashing\zeroSum.cpp, code is 44, comment is 0, blank is 5.
+joboverflow\.cph\.Dom And Parts.cpp_6047a5617177401535cae39ceb8faff7.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.k_closest.cpp_d1eb08665007c16017199b0cf88998e0.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.lazy_chef.cpp_c80c849b993ac0382f588e1aecda403f.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Make_Files_Equall.cpp_608f5df13f08f04df8f793d2747137b4.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Not_Same_Elements.cpp_6b0b4bdc6c8d14a32feacfe6bf2759c2.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Partition_Labels.cpp_cf94f2e5f14ac41379551eab09ce8195.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Single_Element.cpp_445531ae354e80c604b63696d5964623.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Sliding_Window_Minimum.cpp_189797ab5366b188843e858ed87643e1.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.String Substitution.cpp_61ddabdc612ea3a6e0fc784200a9701b.prob, code is 1, comment is 0, blank is 0.
+joboverflow\.cph\.Substring Without Repeating Characters.cpp_0cd7f1047cc28079753c1902823123b0.prob, code is 1, comment is 0, blank is 0.
+joboverflow\Dom And Parts.bin, it is a binary file.
+joboverflow\Dom And Parts.cpp, code is 67, comment is 8, blank is 7.
+joboverflow\friends.cpp, code is 67, comment is 8, blank is 7.
+joboverflow\Good Strings.cpp, code is 69, comment is 0, blank is 19.
+joboverflow\graphs\dfs\.cph\.mininmumCameraTree.cpp_7feca01b9cc5aff10dce161b47e2e5ae.prob, code is 1, comment is 0, blank is 0.
+joboverflow\graphs\dfs\backToSquareOne.cpp, code is 57, comment is 7, blank is 8.
+joboverflow\graphs\dfs\mininmumCameraTree.cpp, code is 88, comment is 11, blank is 13.
+joboverflow\graphs\dfs\n.cpp, code is 76, comment is 11, blank is 11.
+joboverflow\graphs\dfs\treeDepth.cpp, code is 25, comment is 4, blank is 1.
+joboverflow\Iniya Adhithya.cpp, code is 101, comment is 9, blank is 4.
+joboverflow\k_closest.cpp, code is 62, comment is 10, blank is 6.
+joboverflow\k_closest_in_sorted.cpp, code is 108, comment is 11, blank is 8.
+joboverflow\lazy_chef.cpp, code is 86, comment is 10, blank is 9.
+joboverflow\Make_Files_Equall.cpp, code is 53, comment is 9, blank is 5.
+joboverflow\Not_Same_Elements.cpp, code is 72, comment is 11, blank is 9.
+joboverflow\Partition_Labels.cpp, code is 53, comment is 9, blank is 9.
+joboverflow\Single_Element.cpp, code is 84, comment is 9, blank is 7.
+joboverflow\Sliding_Window_Minimum.cpp, code is 44, comment is 10, blank is 10.
+joboverflow\String Substitution.bin, it is a binary file.
+joboverflow\String Substitution.cpp, code is 67, comment is 8, blank is 8.
+joboverflow\Substring Without Repeating Characters.bin, it is a binary file.
+joboverflow\Substring Without Repeating Characters.cpp, code is 0, comment is 0, blank is 1.
+lca_lowestCommonAnscestor.cpp, code is 53, comment is 0, blank is 6.
+lca_lowestCommonAnscestor.exe, it is a binary file.
+ll\1.cpp, code is 40, comment is 9, blank is 6.
+ll\detCyc.cpp, code is 31, comment is 7, blank is 5.
+ll\detCyc.exe, it is a binary file.
+ll\specialMatrix.cpp, code is 88, comment is 9, blank is 7.
+matrix\.cph\.specialMatrix.cpp_0d84f7167ad5f79cd370951f39348d4a.prob, code is 1, comment is 0, blank is 0.
+matrix\.cph\.spiral.cpp_4c35bf6078d77f5c597af8d0fbc7ca38.prob, code is 1, comment is 0, blank is 0.
+matrix\.cph\.wallPainting.cpp_66663da9bd37c774ed96fa613b93a932.prob, code is 1, comment is 0, blank is 0.
+matrix\search.cpp, code is 67, comment is 9, blank is 6.
+matrix\specialMatrix.cpp, code is 87, comment is 9, blank is 9.
+matrix\spiral.cpp, code is 41, comment is 4, blank is 6.
+matrix\wallPainting.cpp, code is 38, comment is 4, blank is 6.
+Moneymaking.cpp, code is 17, comment is 2, blank is 3.
+notes.cpp\DiffBwNULL_nullptr.cpp, code is 16, comment is 3, blank is 4.
+notes.cpp\DiffBwNULL_nullptr.exe, it is a binary file.
+phonepe\.cph\.binarySearch.cpp_0ed15ed6d07ee803657bf2f7ef186a9f.prob, code is 1, comment is 0, blank is 0.
+phonepe\.cph\.citiesAndExplosion.cpp_e76494369bf66262fd5bb92a4c55e3f3.prob, code is 1, comment is 0, blank is 0.
+phonepe\.cph\.factorsWala.cpp_2cc6653b979faa0cb34161601a8ca815.prob, code is 1, comment is 0, blank is 0.
+phonepe\.cph\.gridMoves.cpp_2ceb422387491f574c2b063417522a1e.prob, code is 1, comment is 0, blank is 0.
+phonepe\.cph\.string_greedy.cpp_f895e51c0c1388cd5e69bab3e9175c5d.prob, code is 1, comment is 0, blank is 0.
+phonepe\.cph\.treeTraversal.cpp_1ecd2bad27ebe592003042f719163b1f.prob, code is 1, comment is 0, blank is 0.
+phonepe\BinarySearch AlgoU\.cph\.busWaitingTIme.cpp_cc11a4b9406484294d93c5237b2688c1.prob, code is 1, comment is 0, blank is 0.
+phonepe\BinarySearch AlgoU\busWaitingTIme.bin, it is a binary file.
+phonepe\BinarySearch AlgoU\busWaitingTIme.cpp, code is 57, comment is 98, blank is 9.
+phonepe\binarySearch.cpp, code is 53, comment is 2, blank is 5.
+phonepe\citiesAndExplosion.cpp, code is 53, comment is 4, blank is 10.
+phonepe\cses trees\.cph\.avoidObstacle.cpp_289f2f81a085470518506c9f8aa98ce8.prob, code is 1, comment is 0, blank is 0.
+phonepe\cses trees\.cph\.noOfMatches.cpp_6c79fb4ddd237c229a4bf0ac90208f18.prob, code is 1, comment is 0, blank is 0.
+phonepe\cses trees\.cph\.noOfSubordinates.cpp_0bde9eea0d1e4646691f8ff23e145901.prob, code is 1, comment is 0, blank is 0.
+phonepe\cses trees\avoidObstacle.cpp, code is 39, comment is 3, blank is 3.
+phonepe\cses trees\noOfConnectedComp.cpp, code is 47, comment is 3, blank is 6.
+phonepe\cses trees\noOfMatches.bin, it is a binary file.
+phonepe\cses trees\noOfMatches.cpp, code is 41, comment is 5, blank is 8.
+phonepe\cses trees\noOfSubordinates.bin, it is a binary file.
+phonepe\cses trees\noOfSubordinates.cpp, code is 47, comment is 5, blank is 5.
+phonepe\factorsWala.cpp, code is 29, comment is 4, blank is 5.
+phonepe\gridMoves.cpp, code is 45, comment is 0, blank is 4.
+phonepe\NNN.cpp, code is 47, comment is 3, blank is 9.
+phonepe\string_greedy.cpp, code is 68, comment is 2, blank is 3.
+phonepe\t.cpp, code is 20, comment is 2, blank is 4.
+phonepe\treeTraversal.cpp, code is 44, comment is 8, blank is 3.
+phonepe\treeTraversal.exe, it is a binary file.
+recursion basics\.cph\.fib.cpp_27fa3c992b176b3fc6d535859f4d8165.prob, code is 1, comment is 0, blank is 0.
+recursion basics\.cph\.Range Sum Query2.cpp_f1bbc7336e34e2d8fc939b9f183fb9b3.prob, code is 1, comment is 0, blank is 0.
+recursion basics\.cph\.single_element_log_n.cpp_480b98a9ad1c6d32cd71ad664b5b00c3.prob, code is 1, comment is 0, blank is 0.
+recursion basics\.cph\.string_permutations.cpp_be372b22d78d8e023b060885efa6987a.prob, code is 1, comment is 0, blank is 0.
+recursion basics\.cph\.subset_sum.cpp_8c56b74a08b74fc74f8eb95cc6862dc8.prob, code is 1, comment is 0, blank is 0.
+recursion basics\.cph\.tower_of_hanoi.cpp_5de7c7ad84aa2941987c996a3c88d9f7.prob, code is 1, comment is 0, blank is 0.
+recursion basics\1.cpp, code is 33, comment is 0, blank is 4.
+recursion basics\fib.bin, it is a binary file.
+recursion basics\fib.cpp, code is 40, comment is 8, blank is 7.
+recursion basics\Range Sum Query2.bin, it is a binary file.
+recursion basics\Range Sum Query2.cpp, code is 70, comment is 9, blank is 11.
+recursion basics\single_element_log_n.bin, it is a binary file.
+recursion basics\single_element_log_n.cpp, code is 84, comment is 8, blank is 7.
+recursion basics\string_permutations.bin, it is a binary file.
+recursion basics\string_permutations.cpp, code is 38, comment is 9, blank is 8.
+recursion basics\subset_sum.bin, it is a binary file.
+recursion basics\subset_sum.cpp, code is 52, comment is 8, blank is 9.
+recursion basics\tower_of_hanoi.bin, it is a binary file.
+recursion basics\tower_of_hanoi.cpp, code is 49, comment is 9, blank is 13.
+Red_Blue_Sort.cpp, code is 63, comment is 2, blank is 1.
+rever.cpp, code is 23, comment is 3, blank is 3.
+Selling_Donuts.cpp, code is 38, comment is 2, blank is 4.
+Small_Indices.cpp, code is 81, comment is 3, blank is 13.
+sorting\.cph\.cowCheckup.cpp_5ef83eae5887441b7bbf26c63510e658.prob, code is 1, comment is 0, blank is 0.
+sorting\.cph\.maxExplosion.cpp_eb86fb9ffba8ccac2b0c35e275e5a251.prob, code is 1, comment is 0, blank is 0.
+sorting\.cph\.spaceship.cpp_50923a3e9356086df70ff0a3cab7a045.prob, code is 1, comment is 0, blank is 0.
+sorting\bare.cpp, code is 9, comment is 6, blank is 3.
+sorting\cowCheckup.cpp, code is 39, comment is 6, blank is 3.
+sorting\maxExplosion.cpp, code is 43, comment is 9, blank is 8.
+sorting\spaceship.cpp, code is 38, comment is 6, blank is 1.
+subtreeKthmax.cpp, code is 66, comment is 22, blank is 6.
+Temporary_Temperature.cpp, code is 67, comment is 3, blank is 5.
+tree\bintreeFromPreOrderPostOrder.cpp, code is 27, comment is 12, blank is 6.
+tree\binTreeRighSideView.cpp, code is 27, comment is 18, blank is 1.
+tree\diameter_of_BT.cpp, code is 19, comment is 11, blank is 1.
+tree\mirrorImagTree.cpp, code is 14, comment is 13, blank is 4.
+tree_kth_largest.cpp, code is 61, comment is 13, blank is 9.
+trie\.cph\.countPairPalindrome.cpp_81eec78c461775b90f05b3d41af2865a.prob, code is 1, comment is 0, blank is 0.
+trie\.cph\.dictionaryWords.cpp_a4bc283bcb06a01bba55f772a3a635e1.prob, code is 1, comment is 0, blank is 0.
+trie\.cph\.searchString.cpp_101bfe3085b0902dcf0b1e54cd80206c.prob, code is 1, comment is 0, blank is 0.
+trie\countPairPalindrome.cpp, code is 66, comment is 0, blank is 6.
+trie\dictionaryWords.cpp, code is 107, comment is 1, blank is 13.
+trie\max_XOR.cpp, code is 74, comment is 16, blank is 2.
+trie\searchString.cpp, code is 81, comment is 0, blank is 6.
+trie\test.cpp, code is 52, comment is 7, blank is 5.
+trie\test.exe, it is a binary file.
+Two_Cards.cpp, code is 99, comment is 39, blank is 15.
+Unsatisfying_Array.cpp, code is 18, comment is 0, blank is 3.
+warmup\.cph\.preRaju.cpp_cf7c9f5a4b6bbd7a706603fcca5ea1fc.prob, code is 1, comment is 0, blank is 0.
+warmup\preRaju.cpp, code is 53, comment is 10, blank is 5.
+warmup\reverse.cpp, code is 35, comment is 27, blank is 7.
+warmup\string_oper.cpp, code is 51, comment is 11, blank is 14.
+warmup\swapnil_bike.cpp, code is 32, comment is 10, blank is 8.
+warmup\teleport.cpp, code is 57, comment is 10, blank is 9.
+===============================================================================

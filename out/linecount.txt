@@ -1,0 +1,718 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2024-11-27 15:21:08
+count workspace : c:\Users\Abhishekh\Documents\GitHub\cpAlgo
+total files : 706
+total code lines : 18144
+total comment lines : 1775
+total blank lines : 2035
+
+.cph\.A_Median_of_Good_Sequences.cpp_bd93833ba87538465b9b8ed0024b0de7.prob, code is 1, comment is 0, blank is 0.
+.cph\.A_Minimize.cpp_533bcd0a17289b531129835717335699.prob, code is 1, comment is 0, blank is 0.
+.cph\.A_Soccer.cpp_3d5831b87cd45c1dee8571a0238c1a09.prob, code is 1, comment is 0, blank is 0.
+.cph\.A_Welcome_to_AtCoder_Land.cpp_78fdf198bc78c876e3522992e82e5f64.prob, code is 1, comment is 0, blank is 0.
+.cph\.All_Zeros.cpp_dab80520eb90ba03622f2f109baf0507.prob, code is 1, comment is 0, blank is 0.
+.cph\.B_Collatz_Conjecture.cpp_f9c9fb17114243d102fc102197deb7a6.prob, code is 1, comment is 0, blank is 0.
+.cph\.B_Near_Assignment.cpp_3d5ca4eee63e92fc7c11b7245fbb18c4.prob, code is 1, comment is 0, blank is 0.
+.cph\.B_Substring.cpp_89aac86509ea76b7b958295acbcbc0a2.prob, code is 1, comment is 0, blank is 0.
+.cph\.B_Ticket_Counter.cpp_1d480646f0f45bc5601bb0470816b907.prob, code is 1, comment is 0, blank is 0.
+.cph\.Bouncing_Ball.cpp_17b031cd3e4fe1e20bf7bac0b9af59d0.prob, code is 1, comment is 0, blank is 0.
+.cph\.C_Boring_Day.cpp_b5393e45826c5c27aee23b02019e03a1.prob, code is 1, comment is 0, blank is 0.
+.cph\.C_Ideal_Holidays.cpp_f6c9bb6c426996045aca1e8014c139e0.prob, code is 1, comment is 0, blank is 0.
+.cph\.C_Number_of_Pairs.cpp_aacb25aab6a0d0c6d12d07ff3b733d7b.prob, code is 1, comment is 0, blank is 0.
+.cph\.C_Numeric_String_Template.cpp_acacb7c67a6ff5c4c6a9c1be0e4d58c6.prob, code is 1, comment is 0, blank is 0.
+.cph\.C_Popcorn.cpp_ea8b140d62cdf63bdf6365547f1e7927.prob, code is 1, comment is 0, blank is 0.
+.cph\.Change_A_to_B.cpp_f642576dd09f0e3be01147c2849e5493.prob, code is 1, comment is 0, blank is 0.
+.cph\.Chef_Loves_Beautiful_Strings_Easy_Version.cpp_6f64b595b8b1c310821d079c52dc4169.prob, code is 1, comment is 0, blank is 0.
+.cph\.Coprime_Subarrays.cpp_ae2b3d9e2506ef3c7d714374e7443be2.prob, code is 1, comment is 0, blank is 0.
+.cph\.D_Souvenirs.cpp_cff090eff5cff5b8162763a837ca1552.prob, code is 1, comment is 0, blank is 0.
+.cph\.Dice_Combinations.cpp_d197cc03f958cf398592128e9e8155d9.prob, code is 1, comment is 0, blank is 0.
+.cph\.Double_Trouble.cpp_88af8ab646b9d6d916ccf3e3d8d461e8.prob, code is 1, comment is 0, blank is 0.
+.cph\.E_Tetrahedron.cpp_353064ba7018101c4d9f80332269e887.prob, code is 1, comment is 0, blank is 0.
+.cph\.Easy_Subarray_Sum.cpp_bc3aade59e4eb7280a77301dbd54b592.prob, code is 1, comment is 0, blank is 0.
+.cph\.Equal_Pairs_Easy.cpp_bc3ae3de8decf04b605c8737e8d42718.prob, code is 1, comment is 0, blank is 0.
+.cph\.Extreme_Basketball.cpp_9a80fb211d44f925bc7de163d2c739ec.prob, code is 1, comment is 0, blank is 0.
+.cph\.G_Mathematician_Takeover.cpp_e3f49a797eaa1a739d1ba3d3f12b9604.prob, code is 1, comment is 0, blank is 0.
+.cph\.H_Palindrome.cpp_91e7c43e7e2828e1fbce29fbc3a38b86.prob, code is 1, comment is 0, blank is 0.
+.cph\.Invert_And_Equalize.cpp_4d893e043d3e72b29d3b82e2199a2a04.prob, code is 1, comment is 0, blank is 0.
+.cph\.Knockout_tournament.cpp_6cc036be26e2731d2d69fa48e1020ae4.prob, code is 1, comment is 0, blank is 0.
+.cph\.Large_Differences.cpp_38f49f99b44211ef942353661b6f1932.prob, code is 1, comment is 0, blank is 0.
+.cph\.Lexicographically_Maximal_Prefix_AND.cpp_7afca7cd6f959e45f54fb69caf90d170.prob, code is 1, comment is 0, blank is 0.
+.cph\.Magical_World.cpp_c2c528e0ecf0f03cca7894b34aefe3b4.prob, code is 1, comment is 0, blank is 0.
+.cph\.Make_Permutation.cpp_47792b14056313a91e587fb272930698.prob, code is 1, comment is 0, blank is 0.
+.cph\.Max_Frequency.cpp_d2433c65a5e9ef5f83dce2561b821f6d.prob, code is 1, comment is 0, blank is 0.
+.cph\.Maximise_Sum.cpp_e7c25ffa3b827642fd6bda82c694ffed.prob, code is 1, comment is 0, blank is 0.
+.cph\.Maximum_Cupcakes.cpp_4156c335ab15554d3b3edfbfded0a2d4.prob, code is 1, comment is 0, blank is 0.
+.cph\.Minimise_LCS.cpp_491a4ed17fd7c73e1661130a24c57655.prob, code is 1, comment is 0, blank is 0.
+.cph\.My_First_Geometry_Problem.cpp_222dc4fc7dfa9d379df492f925024f8d.prob, code is 1, comment is 0, blank is 0.
+.cph\.No_Winner.cpp_74688bc9cf9c4b982a28b41a7293829c.prob, code is 1, comment is 0, blank is 0.
+.cph\.osu_mania.cpp_acd9279060e3da0026cb83eec4444a04.prob, code is 1, comment is 0, blank is 0.
+.cph\.Permutation_Construction.cpp_312b2b8844975836924164f713f3a7c8.prob, code is 1, comment is 0, blank is 0.
+.cph\.Ratio_By_2.cpp_cfaad30c8398bdd6dbfbe14144c88211.prob, code is 1, comment is 0, blank is 0.
+.cph\.Satyam_and_Counting.cpp_a830a8309347ed6987cfe1653085cba0.prob, code is 1, comment is 0, blank is 0.
+.cph\.Speedrun.cpp_e55e82865bc6d2ff62a4206117ac8797.prob, code is 1, comment is 0, blank is 0.
+.cph\.speedrun2.cpp_c065f47417533327686d065595270cff.prob, code is 1, comment is 0, blank is 0.
+.cph\.Spell_Splice.cpp_3dfe28fc8003f6207a213a0d6b86e162.prob, code is 1, comment is 0, blank is 0.
+.cph\.Split_Permutation.cpp_0ea447ae07fb42941c94813d861165b5.prob, code is 1, comment is 0, blank is 0.
+.cph\.Sum_of_Modes.cpp_6ea56ab82bd38ec22de63026773029ef.prob, code is 1, comment is 0, blank is 0.
+.cph\.Superincreasing.cpp_91fe7689a84e4542e2aa649023844e44.prob, code is 1, comment is 0, blank is 0.
+.cph\.t2.cpp_4c5b7e2ae7a9c83b5d4b06cd9c5b87c0.prob, code is 1, comment is 0, blank is 0.
+.cph\.The_Legend_of_Freya_the_Frog.cpp_b9a77cc9f182af5903db705c8f4310fc.prob, code is 1, comment is 0, blank is 0.
+.cph\.Trick_Or_Treat.cpp_db4e7a5635eab83704d451fafbe6f5f1.prob, code is 1, comment is 0, blank is 0.
+.cph\.Yoga_Class.cpp_ee65f75f8969e8d132297cefaff1e9ab.prob, code is 1, comment is 0, blank is 0.
+A_Median_of_Good_Sequences.cpp, code is 58, comment is 1, blank is 10.
+A_Minimize.cpp, code is 24, comment is 2, blank is 4.
+A_Soccer.cpp, code is 28, comment is 2, blank is 1.
+A_Welcome_to_AtCoder_Land.cpp, code is 15, comment is 6, blank is 4.
+algo_assign\.cph\.1.cpp_de8ffd46f6293f80fa871858bf97930a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.2.cpp_fe47180b0f4a48bfce4552672cf19598.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.AND_Quest.cpp_d57e10a7509baef4b2a45830f6fee9e3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.balloon_game.cpp_06fa6f3fbb0e2a48ebff0f7055916703.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.candies.cpp_3c01d51a80a0d289514d9caa533f6034.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Moneymaking.cpp_71f0e0ade8bbf0f8fabad23f33f7c094.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Red_Blue_Sort.cpp_8b26ad4bc1418e3ea92e881b354e5f7c.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.rever.cpp_00dedf619e8783992a89971ab4da4e12.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Selling_Donuts.cpp_59d07ec0577657c322452615309ac3e3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Small_Indices.cpp_8eb0e1ad71e560341f17ee7704a451d9.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.subtreeKthmax.cpp_0dc9e36da6756efe6af5a72482030880.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Temporary_Temperature.cpp_e18808dc3eb1c3f7198c3e0c9b8966fb.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Two_Cards.cpp_712629ebbcb2672485ad1cd09702deb6.prob, code is 1, comment is 0, blank is 0.
+algo_assign\.cph\.Unsatisfying_Array.cpp_a73c87f386c1cf51168fc76f3755ce0f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\11bareMin.cpp, code is 13, comment is 2, blank is 2.
+algo_assign\1oj\class\backend\.env, code is 2, comment is 1, blank is 0.
+algo_assign\1oj\class\backend\.gitignore, code is 97, comment is 7, blank is 33.
+algo_assign\1oj\class\backend\database\db.js, code is 14, comment is 0, blank is 2.
+algo_assign\1oj\class\backend\index.js, code is 70, comment is 18, blank is 19.
+algo_assign\1oj\class\backend\models\Users.js, code is 8, comment is 0, blank is 2.
+algo_assign\1oj\class\backend\package-lock.json, code is 2321, comment is 0, blank is 1.
+algo_assign\1oj\class\backend\package.json, code is 21, comment is 0, blank is 0.
+algo_assign\1oj\Schemas\use.js, code is 38, comment is 2, blank is 2.
+algo_assign\AND_Quest.cpp, code is 88, comment is 3, blank is 12.
+algo_assign\array\.cph\.closest_refuge.cpp_e61beb393b19b2a59ac501c024a3172f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.largest_subarrsum_7.cpp_011198d567baa1b762b8b38ac925760e.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.range_queries.cpp_fde25f53350a7616b431f3c7257a9442.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.sorted_square.cpp_5161f4f72a24ae778d13ecc3d8d46968.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.sorted_square.cpp_985d54821c2fb912f0a932628c2881aa.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.treasure_room.cpp_bf7cd29247c0881731bf67aab7af813e.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\.cph\.treasure_room_3key.cpp_794298306056d87dffe87ddc8c339325.prob, code is 1, comment is 0, blank is 0.
+algo_assign\array\closest_refuge.cpp, code is 54, comment is 10, blank is 6.
+algo_assign\array\largest_subarrsum_7.cpp, code is 55, comment is 10, blank is 8.
+algo_assign\array\range_queries.cpp, code is 57, comment is 10, blank is 7.
+algo_assign\array\sorted_square.cpp, code is 81, comment is 10, blank is 7.
+algo_assign\array\treasure_room_2key.cpp, code is 62, comment is 10, blank is 6.
+algo_assign\array\treasure_room_3key.cpp, code is 69, comment is 12, blank is 6.
+algo_assign\balloon_game.cpp, code is 54, comment is 11, blank is 11.
+algo_assign\balooonCopy.cpp, code is 50, comment is 15, blank is 13.
+algo_assign\bin.cpp, code is 43, comment is 3, blank is 5.
+algo_assign\binary search\.cph\.2d_matrix.cpp_167563fd069799af9fca2ae304fc58d0.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.direct_b_s.cpp_5789d7fd00828640bf0a4a69a46001e5.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.first_last_ind.cpp_2633c9308dcc09366b48427c9602407a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.range.cpp_f07c7b168ac1283c5698d66f21ecf72b.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.sba.cpp_55d04e405d1984b6794d0fab6f03efc9.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.sqrt.cpp_0ab9552a24064a5c9ac8fbe9fcaf7554.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\.cph\.sqrt.cpp_81c81af0eb7f9fa2b951c0ac5923c516.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary search\2d_matrix.bin, it is a binary file.
+algo_assign\binary search\2d_matrix.cpp, code is 67, comment is 9, blank is 6.
+algo_assign\binary search\direct_b_s.bin, it is a binary file.
+algo_assign\binary search\direct_b_s.cpp, code is 56, comment is 8, blank is 6.
+algo_assign\binary search\first_last_ind.bin, it is a binary file.
+algo_assign\binary search\first_last_ind.cpp, code is 79, comment is 10, blank is 9.
+algo_assign\binary search\range.bin, it is a binary file.
+algo_assign\binary search\range.cpp, code is 77, comment is 10, blank is 8.
+algo_assign\binary search\sba.bin, it is a binary file.
+algo_assign\binary search\sba.cpp, code is 52, comment is 8, blank is 7.
+algo_assign\binary search\sqrt.bin, it is a binary file.
+algo_assign\binary search\sqrt.cpp, code is 51, comment is 9, blank is 6.
+algo_assign\binary_search_addv\.cph\.candies.cpp_3406866c9b746c4d8efd0977883f0981.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\.cph\.corona.cpp_78a416e068eb6d9b1678dd1912ac6b33.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\.cph\.packing.cpp_a4a8f6bde4d029339b2e2d4ba9dbf030.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\.cph\.piles_probml.cpp_5d6feb80480f9ce72d01db5dc5328e36.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\.cph\.rotated_arry.cpp_5dfbfc7e295859995b8357423a580fae.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\.cph\.transport.cpp_81afb7d09145240a1a955e24a518a9d9.prob, code is 1, comment is 0, blank is 0.
+algo_assign\binary_search_addv\candies.cpp, code is 62, comment is 10, blank is 9.
+algo_assign\binary_search_addv\corona.cpp, code is 66, comment is 10, blank is 10.
+algo_assign\binary_search_addv\doubt_packing.cpp, code is 41, comment is 1, blank is 7.
+algo_assign\binary_search_addv\nc.cpp, code is 52, comment is 0, blank is 6.
+algo_assign\binary_search_addv\packing.cpp, code is 67, comment is 15, blank is 11.
+algo_assign\binary_search_addv\piles_probml.cpp, code is 71, comment is 14, blank is 10.
+algo_assign\binary_search_addv\rotated_arr_search.cpp, code is 42, comment is 8, blank is 8.
+algo_assign\binary_search_addv\rotated_arry.cpp, code is 52, comment is 8, blank is 9.
+algo_assign\binary_search_addv\transport.cpp, code is 84, comment is 10, blank is 6.
+algo_assign\bit man\.cph\.booleanEval.cpp_55f87f1663d770fc0b85b0fce3365077.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.flipBits.cpp_a8bdd856716763a52b8fdc39c453edff.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.GoodSubarray.cpp_67fc5531b5c03eeae82435738289f6d7.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.kthBitCheck.cpp_aa48be180c725051a6a457a9749d7fb6.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.maxAnd.cpp_d051c536c3d20f06080404d96a75f6a1.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.MaxConsecOnes.cpp_4d19dd4a9749162001d5b3481862ff04.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.maxXOR_y.cpp_5baf530104cd417bb8dd32a8ce7510d2.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.n.cpp_128fcbc1c8d29db20ee14e413356a5f3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.RockPaperScissor.cpp_c96db9cae7a7498bee5a63a983490b49.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.sc.cpp_910b190fa42cd35d2b55fb4b01576ca8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\.cph\.XorAndInversion.cpp_2f0bb3156bcf11d93ee89c99093cfdc4.prob, code is 1, comment is 0, blank is 0.
+algo_assign\bit man\booleanEval.bin, it is a binary file.
+algo_assign\bit man\booleanEval.cpp, code is 38, comment is 0, blank is 3.
+algo_assign\bit man\class\3same1dif.cpp, code is 34, comment is 2, blank is 2.
+algo_assign\bit man\flipBits.bin, it is a binary file.
+algo_assign\bit man\flipBits.cpp, code is 11, comment is 0, blank is 3.
+algo_assign\bit man\GoodSubarray.bin, it is a binary file.
+algo_assign\bit man\GoodSubarray.cpp, code is 30, comment is 0, blank is 2.
+algo_assign\bit man\kthBitCheck.bin, it is a binary file.
+algo_assign\bit man\kthBitCheck.cpp, code is 18, comment is 3, blank is 3.
+algo_assign\bit man\maxAnd.bin, it is a binary file.
+algo_assign\bit man\maxAnd.cpp, code is 58, comment is 13, blank is 8.
+algo_assign\bit man\MaxConsecOnes.bin, it is a binary file.
+algo_assign\bit man\MaxConsecOnes.cpp, code is 45, comment is 13, blank is 11.
+algo_assign\bit man\maxXOR_y.bin, it is a binary file.
+algo_assign\bit man\maxXOR_y.cpp, code is 39, comment is 0, blank is 1.
+algo_assign\bit man\RockPaperScissor.bin, it is a binary file.
+algo_assign\bit man\RockPaperScissor.cpp, code is 49, comment is 3, blank is 7.
+algo_assign\bit man\XorAndInversion.bin, it is a binary file.
+algo_assign\bit man\XorAndInversion.cpp, code is 29, comment is 1, blank is 3.
+algo_assign\bst\2Insertion.cpp, code is 46, comment is 3, blank is 3.
+algo_assign\bst\3RangeSumOfBST.cpp, code is 50, comment is 2, blank is 4.
+algo_assign\bst\5SortedListToBST.cpp, code is 26, comment is 21, blank is 1.
+algo_assign\bst\6TwoSum.cpp, code is 7, comment is 11, blank is 1.
+algo_assign\bst\serach.cpp, code is 18, comment is 0, blank is 1.
+algo_assign\candies.cpp, code is 38, comment is 3, blank is 5.
+algo_assign\cont\.cph\.1.cpp_eae530c78d36a156a47f8676087e8871.prob, code is 1, comment is 0, blank is 0.
+algo_assign\cont\.cph\.3.cpp_7c721fd0c565e50ca1cb50edda8ba1f5.prob, code is 1, comment is 0, blank is 0.
+algo_assign\cont\.cph\.BigCircle.cpp_d2b573c788da3855c67091eedc55386a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\cont\1.cpp, code is 71, comment is 2, blank is 8.
+algo_assign\cont\3.cpp, code is 36, comment is 5, blank is 8.
+algo_assign\cont\BigCircle.cpp, code is 100, comment is 2, blank is 7.
+algo_assign\dp1.cpp, code is 8, comment is 0, blank is 6.
+algo_assign\dp\cses\.cph\.Dice_Combinations.cpp_a30928a32f7c3323769695e7f548794f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\cses\Dice_Combinations.cpp, code is 60, comment is 5, blank is 13.
+algo_assign\dp\cses\diceCombination.cpp, code is 60, comment is 5, blank is 13.
+algo_assign\dp\kadane\.cph\.originalKadane.cpp_b0bb9b234d569033e913ec618c61df10.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\kadane\originalKadane.cpp, code is 19, comment is 1, blank is 7.
+algo_assign\dp\knapsack\.cph\.bareMinDp.cpp_eef5402ebd4aa2a298f59b16e4330141.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.cd1.cpp_b3b41f0c468891d9386b67576629a301.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.cd2.cpp_4e7b61f958a5cd592e29635b58fc5fc6.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.defeatWhiteWhale.cpp_8d3f8ec417f010eedbe69d173ab1f476.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.doubleKnapack.cpp_c52e21cfa3601fcad6fa71ba996d6b61.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.fractional.cpp_a0655bd7fd4d97c332d545527a88b165.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.gigafactories.cpp_a3d590b9f149459f321ae4df3f514edb.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.keto.cpp_f443c3c25154cb1ae10c85dbaf1774af.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.sherlock.cpp_1e6e0d54f0c7de14f2b19dd0607b3d52.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\.cph\.spaceTravel.cpp_7e6146009becfe1d2017d20d7d340283.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\knapsack\bareMinDp.cpp, code is 48, comment is 4, blank is 8.
+algo_assign\dp\knapsack\defeatWhiteWhale.cpp, code is 42, comment is 7, blank is 6.
+algo_assign\dp\knapsack\doubleKnapack.cpp, code is 44, comment is 6, blank is 9.
+algo_assign\dp\knapsack\fractional.cpp, code is 45, comment is 2, blank is 6.
+algo_assign\dp\knapsack\gigafactories.cpp, code is 43, comment is 2, blank is 4.
+algo_assign\dp\knapsack\keto.cpp, code is 52, comment is 4, blank is 7.
+algo_assign\dp\knapsack\sherlock.cpp, code is 40, comment is 1, blank is 9.
+algo_assign\dp\knapsack\spaceTravel.cpp, code is 63, comment is 3, blank is 9.
+algo_assign\dp\pattern recognition\.cph\.equalWeights.cpp_dc068678314c856161ec2e3e30fc9bb6.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\pattern recognition\.cph\.jump destination.cpp_4ad81801e9b83bc1506a26526a1446c9.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\pattern recognition\.cph\.makeSringEqual.cpp_f8f40f491b5268554ebc49d91842fbbf.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\pattern recognition\.cph\.ways_combination.cpp_b773a009d13dece31d2eb59092500020.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\pattern recognition\.cph\.waysOfJump.cpp_8d46b98e200445e97e078489a10e4ede.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\pattern recognition\equalWeights.cpp, code is 47, comment is 5, blank is 2.
+algo_assign\dp\pattern recognition\jump destination.bin, it is a binary file.
+algo_assign\dp\pattern recognition\jump destination.cpp, code is 41, comment is 4, blank is 4.
+algo_assign\dp\pattern recognition\makeSringEqual.bin, it is a binary file.
+algo_assign\dp\pattern recognition\makeSringEqual.cpp, code is 36, comment is 0, blank is 1.
+algo_assign\dp\pattern recognition\tessstLambda.cpp, code is 21, comment is 3, blank is 2.
+algo_assign\dp\pattern recognition\tessstLambda.exe, it is a binary file.
+algo_assign\dp\pattern recognition\ways_combination.cpp, code is 29, comment is 4, blank is 4.
+algo_assign\dp\pattern recognition\waysOfJump.bin, it is a binary file.
+algo_assign\dp\pattern recognition\waysOfJump.cpp, code is 36, comment is 2, blank is 3.
+algo_assign\dp\subsequence\.cph\.all_LCS2.cpp_f64e31d6c4320e7a97ca8e3d74971587.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\subsequence\.cph\.LCS1.cpp_5d921fe82a1e7676a28f980c4eb50da8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\subsequence\.cph\.LCS2_contruction.cpp_cc12ab55c8afd3646cee7819b823ed86.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\subsequence\.cph\.longest_palindromic.cpp_e89c9604f9ce34d5099dbd70bcbb2c4f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\subsequence\.cph\.Shortest_Supersequence.cpp_8b62bc39948bac18060e0c45be6c96ca.prob, code is 1, comment is 0, blank is 0.
+algo_assign\dp\subsequence\all_LCS2.cpp, code is 67, comment is 8, blank is 13.
+algo_assign\dp\subsequence\LCS1.cpp, code is 33, comment is 2, blank is 4.
+algo_assign\dp\subsequence\LCS2_contruction.cpp, code is 59, comment is 3, blank is 4.
+algo_assign\dp\subsequence\longest_palindromic.cpp, code is 35, comment is 2, blank is 5.
+algo_assign\dp\subsequence\Shortest_Supersequence.cpp, code is 33, comment is 3, blank is 5.
+algo_assign\dsu\isGraphTree.cpp, code is 61, comment is 13, blank is 7.
+algo_assign\eulerTour.cpp, code is 41, comment is 7, blank is 10.
+algo_assign\g_ques\.cph\.bipartatite.cpp_eb54346d1f7b449d8df81c6cfd75b6a1.prob, code is 1, comment is 0, blank is 0.
+algo_assign\g_ques\bipartatite.cpp, code is 114, comment is 17, blank is 28.
+algo_assign\graph\.cph\.matrixToList.cpp_3e7502020c287c227bfcecd4d0417ba5.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\.cph\.minimumJumps.cpp_b1947e75b46d914b76c35d7af65c758a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\.cph\.mutliSourceBFS.cpp_ef88b09006084e92f38f4114e32b33b8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\.cph\.sourceToDestDAG.cpp_3e9cf3ba0cbad217c745b6739fb45e4a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\.cph\.TravCouples.cpp_f1311ae8020a35e901c8f2296d713c07.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\concepts\.cph\.cycleDet.cpp_ceed2288c9995ee0b95ddc3941ec8128.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\concepts\bfsBareMin.cpp, code is 97, comment is 9, blank is 9.
+algo_assign\graph\concepts\bfsBareMin.exe, it is a binary file.
+algo_assign\graph\concepts\CYC.cpp, code is 69, comment is 1, blank is 11.
+algo_assign\graph\concepts\cycleDet.cpp, code is 49, comment is 0, blank is 8.
+algo_assign\graph\concepts\cycleInUGraphBFS.cpp, code is 40, comment is 1, blank is 3.
+algo_assign\graph\concepts\haha\.cph\.bossEmp.cpp_cabb595349078b1e4d4047d03367e04c.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\concepts\haha\.cph\.diameter.cpp_22298fbfbf6aeabbead04ef4f43322d4.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\concepts\haha\.cph\.mostProfitTeam.cpp_b4cddb55ea60f6557d075d1643bd27dd.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\concepts\haha\bossEmp.cpp, code is 45, comment is 7, blank is 7.
+algo_assign\graph\concepts\haha\c1.cpp, code is 103, comment is 24, blank is 9.
+algo_assign\graph\concepts\haha\c1.exe, it is a binary file.
+algo_assign\graph\concepts\haha\c2.cpp, code is 32, comment is 4, blank is 10.
+algo_assign\graph\concepts\haha\c2.exe, it is a binary file.
+algo_assign\graph\concepts\haha\c3.cpp, code is 29, comment is 6, blank is 9.
+algo_assign\graph\concepts\haha\c3.exe, it is a binary file.
+algo_assign\graph\concepts\haha\diameter.cpp, code is 63, comment is 10, blank is 6.
+algo_assign\graph\concepts\haha\mostProfitTeam.cpp, code is 51, comment is 8, blank is 7.
+algo_assign\graph\joboverflow\.cph\.area.cpp_a3e7179c32b25773f940e36195e634a6.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\joboverflow\.cph\.officeDesk.cpp_629106a0fe7243e4873997d4fa8e9e69.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\joboverflow\area.cpp, code is 55, comment is 7, blank is 8.
+algo_assign\graph\joboverflow\areaMaxIsland.cpp, code is 44, comment is 0, blank is 12.
+algo_assign\graph\joboverflow\diff.cpp, code is 43, comment is 0, blank is 2.
+algo_assign\graph\joboverflow\diff2.cpp, code is 43, comment is 0, blank is 2.
+algo_assign\graph\joboverflow\officeDesk.cpp, code is 71, comment is 4, blank is 12.
+algo_assign\graph\matrixToList.cpp, code is 46, comment is 8, blank is 7.
+algo_assign\graph\minimumJumps.cpp, code is 63, comment is 7, blank is 7.
+algo_assign\graph\mutliSourceBFS.cpp, code is 69, comment is 4, blank is 4.
+algo_assign\graph\mutliSourceBFS.exe, it is a binary file.
+algo_assign\graph\sourceToDestDAG.cpp, code is 107, comment is 12, blank is 10.
+algo_assign\graph\TravCouples.cpp, code is 61, comment is 7, blank is 8.
+algo_assign\graph\travellingCouples.cpp, code is 52, comment is 0, blank is 2.
+algo_assign\graph\warchest1\.cph\.avo.cpp_83191e9d4baf478aacbfcf3b98acb321.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\warchest1\.cph\.avoidingCities.cpp_3f2a1b67322d002cda8f3cfc3501b8f9.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\warchest1\.cph\.twoOcean.cpp_f1067e25035bfd790a82a50ad4f54b60.prob, code is 1, comment is 0, blank is 0.
+algo_assign\graph\warchest1\avo.cpp, code is 52, comment is 0, blank is 10.
+algo_assign\graph\warchest1\avoidingCities.cpp, code is 57, comment is 7, blank is 2.
+algo_assign\graph\warchest1\twoOcean.cpp, code is 92, comment is 1, blank is 5.
+algo_assign\hashing\.cph\.union.cpp_735abd924577bf7c79d81e9a7c6fd05f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\hashing\.cph\.UniqueInWinK.cpp_37906a396f66dabe2e51e8376626d5ef.prob, code is 1, comment is 0, blank is 0.
+algo_assign\hashing\.cph\.zeroSum.cpp_cb3eb49c8e0ed376f710e2f1dd0794e8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\hashing\chainingUsingClass.cpp, code is 49, comment is 0, blank is 7.
+algo_assign\hashing\chainingUsingClass.exe, it is a binary file.
+algo_assign\hashing\chainingUsingStruct.cpp, code is 41, comment is 0, blank is 2.
+algo_assign\hashing\chainingUsingStruct.exe, it is a binary file.
+algo_assign\hashing\DistEleIn2UnsArr.cpp, code is 0, comment is 0, blank is 0.
+algo_assign\hashing\incFreq.cpp, code is 0, comment is 0, blank is 0.
+algo_assign\hashing\LinAdd.cpp, code is 0, comment is 0, blank is 0.
+algo_assign\hashing\maxFreq.cpp, code is 17, comment is 0, blank is 6.
+algo_assign\hashing\openAdressing.cpp, code is 82, comment is 0, blank is 4.
+algo_assign\hashing\union.cpp, code is 27, comment is 2, blank is 4.
+algo_assign\hashing\UniqueInWinK.cpp, code is 42, comment is 0, blank is 3.
+algo_assign\hashing\zeroSum.cpp, code is 44, comment is 0, blank is 5.
+algo_assign\joboverflow\.cph\.Dom And Parts.cpp_6047a5617177401535cae39ceb8faff7.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.k_closest.cpp_d1eb08665007c16017199b0cf88998e0.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.lazy_chef.cpp_c80c849b993ac0382f588e1aecda403f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Make_Files_Equall.cpp_608f5df13f08f04df8f793d2747137b4.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Not_Same_Elements.cpp_6b0b4bdc6c8d14a32feacfe6bf2759c2.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Partition_Labels.cpp_cf94f2e5f14ac41379551eab09ce8195.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Single_Element.cpp_445531ae354e80c604b63696d5964623.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Sliding_Window_Minimum.cpp_189797ab5366b188843e858ed87643e1.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.String Substitution.cpp_61ddabdc612ea3a6e0fc784200a9701b.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\.cph\.Substring Without Repeating Characters.cpp_0cd7f1047cc28079753c1902823123b0.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\Dom And Parts.bin, it is a binary file.
+algo_assign\joboverflow\Dom And Parts.cpp, code is 67, comment is 8, blank is 7.
+algo_assign\joboverflow\friends.cpp, code is 67, comment is 8, blank is 7.
+algo_assign\joboverflow\Good Strings.cpp, code is 69, comment is 0, blank is 19.
+algo_assign\joboverflow\graphs\dfs\.cph\.mininmumCameraTree.cpp_7feca01b9cc5aff10dce161b47e2e5ae.prob, code is 1, comment is 0, blank is 0.
+algo_assign\joboverflow\graphs\dfs\backToSquareOne.cpp, code is 57, comment is 7, blank is 8.
+algo_assign\joboverflow\graphs\dfs\mininmumCameraTree.cpp, code is 88, comment is 11, blank is 13.
+algo_assign\joboverflow\graphs\dfs\n.cpp, code is 76, comment is 11, blank is 11.
+algo_assign\joboverflow\graphs\dfs\treeDepth.cpp, code is 25, comment is 4, blank is 1.
+algo_assign\joboverflow\Iniya Adhithya.cpp, code is 101, comment is 9, blank is 4.
+algo_assign\joboverflow\k_closest.cpp, code is 62, comment is 10, blank is 6.
+algo_assign\joboverflow\k_closest_in_sorted.cpp, code is 108, comment is 11, blank is 8.
+algo_assign\joboverflow\lazy_chef.cpp, code is 86, comment is 10, blank is 9.
+algo_assign\joboverflow\Make_Files_Equall.cpp, code is 53, comment is 9, blank is 5.
+algo_assign\joboverflow\Not_Same_Elements.cpp, code is 72, comment is 11, blank is 9.
+algo_assign\joboverflow\Partition_Labels.cpp, code is 53, comment is 9, blank is 9.
+algo_assign\joboverflow\Single_Element.cpp, code is 84, comment is 9, blank is 7.
+algo_assign\joboverflow\Sliding_Window_Minimum.cpp, code is 44, comment is 10, blank is 10.
+algo_assign\joboverflow\String Substitution.bin, it is a binary file.
+algo_assign\joboverflow\String Substitution.cpp, code is 67, comment is 8, blank is 8.
+algo_assign\joboverflow\Substring Without Repeating Characters.bin, it is a binary file.
+algo_assign\joboverflow\Substring Without Repeating Characters.cpp, code is 0, comment is 0, blank is 1.
+algo_assign\lca_lowestCommonAnscestor.cpp, code is 53, comment is 0, blank is 6.
+algo_assign\lca_lowestCommonAnscestor.exe, it is a binary file.
+algo_assign\ll\1.cpp, code is 40, comment is 9, blank is 6.
+algo_assign\ll\detCyc.cpp, code is 31, comment is 7, blank is 5.
+algo_assign\ll\detCyc.exe, it is a binary file.
+algo_assign\ll\specialMatrix.cpp, code is 88, comment is 9, blank is 7.
+algo_assign\matrix\.cph\.specialMatrix.cpp_0d84f7167ad5f79cd370951f39348d4a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\matrix\.cph\.spiral.cpp_4c35bf6078d77f5c597af8d0fbc7ca38.prob, code is 1, comment is 0, blank is 0.
+algo_assign\matrix\.cph\.wallPainting.cpp_66663da9bd37c774ed96fa613b93a932.prob, code is 1, comment is 0, blank is 0.
+algo_assign\matrix\search.cpp, code is 67, comment is 9, blank is 6.
+algo_assign\matrix\specialMatrix.cpp, code is 87, comment is 9, blank is 9.
+algo_assign\matrix\spiral.cpp, code is 41, comment is 4, blank is 6.
+algo_assign\matrix\wallPainting.cpp, code is 38, comment is 4, blank is 6.
+algo_assign\Moneymaking.cpp, code is 17, comment is 2, blank is 3.
+algo_assign\notes.cpp\DiffBwNULL_nullptr.cpp, code is 16, comment is 3, blank is 4.
+algo_assign\notes.cpp\DiffBwNULL_nullptr.exe, it is a binary file.
+algo_assign\phonepe\.cph\.binarySearch.cpp_0ed15ed6d07ee803657bf2f7ef186a9f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\.cph\.citiesAndExplosion.cpp_e76494369bf66262fd5bb92a4c55e3f3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\.cph\.factorsWala.cpp_2cc6653b979faa0cb34161601a8ca815.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\.cph\.gridMoves.cpp_2ceb422387491f574c2b063417522a1e.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\.cph\.string_greedy.cpp_f895e51c0c1388cd5e69bab3e9175c5d.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\.cph\.treeTraversal.cpp_1ecd2bad27ebe592003042f719163b1f.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\BinarySearch AlgoU\.cph\.busWaitingTIme.cpp_cc11a4b9406484294d93c5237b2688c1.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\BinarySearch AlgoU\busWaitingTIme.bin, it is a binary file.
+algo_assign\phonepe\BinarySearch AlgoU\busWaitingTIme.cpp, code is 57, comment is 98, blank is 9.
+algo_assign\phonepe\binarySearch.cpp, code is 53, comment is 2, blank is 5.
+algo_assign\phonepe\citiesAndExplosion.cpp, code is 53, comment is 4, blank is 10.
+algo_assign\phonepe\cses trees\.cph\.avoidObstacle.cpp_289f2f81a085470518506c9f8aa98ce8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\cses trees\.cph\.noOfMatches.cpp_6c79fb4ddd237c229a4bf0ac90208f18.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\cses trees\.cph\.noOfSubordinates.cpp_0bde9eea0d1e4646691f8ff23e145901.prob, code is 1, comment is 0, blank is 0.
+algo_assign\phonepe\cses trees\avoidObstacle.cpp, code is 39, comment is 3, blank is 3.
+algo_assign\phonepe\cses trees\noOfConnectedComp.cpp, code is 47, comment is 3, blank is 6.
+algo_assign\phonepe\cses trees\noOfMatches.bin, it is a binary file.
+algo_assign\phonepe\cses trees\noOfMatches.cpp, code is 41, comment is 5, blank is 8.
+algo_assign\phonepe\cses trees\noOfSubordinates.bin, it is a binary file.
+algo_assign\phonepe\cses trees\noOfSubordinates.cpp, code is 47, comment is 5, blank is 5.
+algo_assign\phonepe\factorsWala.cpp, code is 29, comment is 4, blank is 5.
+algo_assign\phonepe\gridMoves.cpp, code is 45, comment is 0, blank is 4.
+algo_assign\phonepe\NNN.cpp, code is 47, comment is 3, blank is 9.
+algo_assign\phonepe\string_greedy.cpp, code is 68, comment is 2, blank is 3.
+algo_assign\phonepe\t.cpp, code is 20, comment is 2, blank is 4.
+algo_assign\phonepe\treeTraversal.cpp, code is 44, comment is 8, blank is 3.
+algo_assign\phonepe\treeTraversal.exe, it is a binary file.
+algo_assign\recursion basics\.cph\.fib.cpp_27fa3c992b176b3fc6d535859f4d8165.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\.cph\.Range Sum Query2.cpp_f1bbc7336e34e2d8fc939b9f183fb9b3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\.cph\.single_element_log_n.cpp_480b98a9ad1c6d32cd71ad664b5b00c3.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\.cph\.string_permutations.cpp_be372b22d78d8e023b060885efa6987a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\.cph\.subset_sum.cpp_8c56b74a08b74fc74f8eb95cc6862dc8.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\.cph\.tower_of_hanoi.cpp_5de7c7ad84aa2941987c996a3c88d9f7.prob, code is 1, comment is 0, blank is 0.
+algo_assign\recursion basics\1.cpp, code is 33, comment is 0, blank is 4.
+algo_assign\recursion basics\fib.bin, it is a binary file.
+algo_assign\recursion basics\fib.cpp, code is 40, comment is 8, blank is 7.
+algo_assign\recursion basics\Range Sum Query2.bin, it is a binary file.
+algo_assign\recursion basics\Range Sum Query2.cpp, code is 70, comment is 9, blank is 11.
+algo_assign\recursion basics\single_element_log_n.bin, it is a binary file.
+algo_assign\recursion basics\single_element_log_n.cpp, code is 84, comment is 8, blank is 7.
+algo_assign\recursion basics\string_permutations.bin, it is a binary file.
+algo_assign\recursion basics\string_permutations.cpp, code is 38, comment is 9, blank is 8.
+algo_assign\recursion basics\subset_sum.bin, it is a binary file.
+algo_assign\recursion basics\subset_sum.cpp, code is 52, comment is 8, blank is 9.
+algo_assign\recursion basics\tower_of_hanoi.bin, it is a binary file.
+algo_assign\recursion basics\tower_of_hanoi.cpp, code is 49, comment is 9, blank is 13.
+algo_assign\Red_Blue_Sort.cpp, code is 63, comment is 2, blank is 1.
+algo_assign\rever.cpp, code is 23, comment is 3, blank is 3.
+algo_assign\Selling_Donuts.cpp, code is 38, comment is 2, blank is 4.
+algo_assign\Small_Indices.cpp, code is 81, comment is 3, blank is 13.
+algo_assign\sorting\.cph\.cowCheckup.cpp_5ef83eae5887441b7bbf26c63510e658.prob, code is 1, comment is 0, blank is 0.
+algo_assign\sorting\.cph\.maxExplosion.cpp_eb86fb9ffba8ccac2b0c35e275e5a251.prob, code is 1, comment is 0, blank is 0.
+algo_assign\sorting\.cph\.spaceship.cpp_50923a3e9356086df70ff0a3cab7a045.prob, code is 1, comment is 0, blank is 0.
+algo_assign\sorting\bare.cpp, code is 9, comment is 6, blank is 3.
+algo_assign\sorting\cowCheckup.cpp, code is 39, comment is 6, blank is 3.
+algo_assign\sorting\maxExplosion.cpp, code is 43, comment is 9, blank is 8.
+algo_assign\sorting\spaceship.cpp, code is 38, comment is 6, blank is 1.
+algo_assign\subtreeKthmax.cpp, code is 66, comment is 22, blank is 6.
+algo_assign\Temporary_Temperature.cpp, code is 67, comment is 3, blank is 5.
+algo_assign\tree\bintreeFromPreOrderPostOrder.cpp, code is 27, comment is 12, blank is 6.
+algo_assign\tree\binTreeRighSideView.cpp, code is 27, comment is 18, blank is 1.
+algo_assign\tree\diameter_of_BT.cpp, code is 19, comment is 11, blank is 1.
+algo_assign\tree\mirrorImagTree.cpp, code is 14, comment is 13, blank is 4.
+algo_assign\tree_kth_largest.cpp, code is 61, comment is 13, blank is 9.
+algo_assign\trie\.cph\.countPairPalindrome.cpp_81eec78c461775b90f05b3d41af2865a.prob, code is 1, comment is 0, blank is 0.
+algo_assign\trie\.cph\.dictionaryWords.cpp_a4bc283bcb06a01bba55f772a3a635e1.prob, code is 1, comment is 0, blank is 0.
+algo_assign\trie\.cph\.searchString.cpp_101bfe3085b0902dcf0b1e54cd80206c.prob, code is 1, comment is 0, blank is 0.
+algo_assign\trie\countPairPalindrome.cpp, code is 66, comment is 0, blank is 6.
+algo_assign\trie\dictionaryWords.cpp, code is 107, comment is 1, blank is 13.
+algo_assign\trie\max_XOR.cpp, code is 74, comment is 16, blank is 2.
+algo_assign\trie\searchString.cpp, code is 81, comment is 0, blank is 6.
+algo_assign\trie\test.cpp, code is 52, comment is 7, blank is 5.
+algo_assign\trie\test.exe, it is a binary file.
+algo_assign\Two_Cards.cpp, code is 99, comment is 39, blank is 15.
+algo_assign\Unsatisfying_Array.cpp, code is 18, comment is 0, blank is 3.
+algo_assign\warmup\.cph\.preRaju.cpp_cf7c9f5a4b6bbd7a706603fcca5ea1fc.prob, code is 1, comment is 0, blank is 0.
+algo_assign\warmup\preRaju.cpp, code is 53, comment is 10, blank is 5.
+algo_assign\warmup\reverse.cpp, code is 35, comment is 27, blank is 7.
+algo_assign\warmup\string_oper.cpp, code is 51, comment is 11, blank is 14.
+algo_assign\warmup\swapnil_bike.cpp, code is 32, comment is 10, blank is 8.
+algo_assign\warmup\teleport.cpp, code is 57, comment is 10, blank is 9.
+All_Zeros.cpp, code is 79, comment is 10, blank is 7.
+at_contest\.cph\.A_Points_on_Line.cpp_576d869c72d7e68b9580ddf1eb3f020f.prob, code is 1, comment is 0, blank is 0.
+at_contest\.cph\.A_Points_on_Line.cpp_c7718c8ba06b95f803903e5958b2882f.prob, code is 1, comment is 0, blank is 0.
+at_contest\.cph\.B_Farthest_Point.cpp_415385e1f4548f76f2206743dd4a99d3.prob, code is 1, comment is 0, blank is 0.
+at_contest\.cph\.C_Colorful_Beans.cpp_655322e7f789830d566f3f84719ad24a.prob, code is 1, comment is 0, blank is 0.
+at_contest\A_Points_on_Line.cpp, code is 38, comment is 8, blank is 7.
+at_contest\B_Farthest_Point.cpp, code is 11, comment is 0, blank is 2.
+at_contest\B_Substring.cpp, code is 46, comment is 10, blank is 6.
+at_contest\C_Colorful_Beans.cpp, code is 24, comment is 3, blank is 2.
+at_contest\C_Ideal_Holidays.cpp, code is 18, comment is 0, blank is 1.
+au_contest\.cph\.1.cpp_7e73a1f9963941031dd3db86af2e943e.prob, code is 1, comment is 0, blank is 0.
+au_contest\.cph\.2.cpp_42d8efea3cfd2761f5ed2b1218d20937.prob, code is 1, comment is 0, blank is 0.
+au_contest\.cph\.3.cpp_cb3f03497d3b16fddda3bb9fcba9c14d.prob, code is 1, comment is 0, blank is 0.
+au_contest\.cph\.4.cpp_39114bd4933fbaa977bb57afa78d835d.prob, code is 1, comment is 0, blank is 0.
+au_contest\1.cpp, code is 24, comment is 1, blank is 5.
+au_contest\2.cpp, code is 32, comment is 0, blank is 4.
+au_contest\3.cpp, code is 70, comment is 2, blank is 9.
+au_contest\4.cpp, code is 44, comment is 0, blank is 5.
+B_Collatz_Conjecture.cpp, code is 34, comment is 1, blank is 6.
+B_Near_Assignment.cpp, code is 45, comment is 3, blank is 7.
+B_Ticket_Counter.cpp, code is 27, comment is 6, blank is 4.
+Bouncing_Ball.cpp, code is 41, comment is 1, blank is 4.
+C_Boring_Day.cpp, code is 42, comment is 2, blank is 5.
+C_Number_of_Pairs.cpp, code is 26, comment is 0, blank is 3.
+C_Number_of_Pairs.exe, it is a binary file.
+C_Numeric_String_Template.cpp, code is 0, comment is 0, blank is 0.
+C_Popcorn.cpp, code is 47, comment is 6, blank is 8.
+cc_contest\.cph\.Alternating_Binary_String.cpp_90a0c5e64be74911ba8853fa6391c885.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Array_Removal.cpp_2253edfa32f4fdd2a352a7d8cbdc75aa.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Binary_Conversion.cpp_d7beeeecc05cf0559438806768870e0f.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Chef_loves_Pizza_Chef_loves_halfs.cpp_c305a8d7c1c9233e4df149e7d23c425f.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Dice_Deception.cpp_8d05ac0fe85745676d8dc9fa131e3f56.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Disjoint_Non_Decreasing_Array.cpp_581da277e5258562ab125f04bc4c9044.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Encrypt_Value.cpp_f3010f5f58bc14fcb91c8c801462ca3e.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Gotta_Catch_Em_All.cpp_21a232590d25afa607ae49e2e3db33ab.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.K_Closeness.cpp_9a6d68885d99b0f7ae22586518dd4e31.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Make_Equal.cpp_a05cf4e98e061b1ed42f8f3695a906c9.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.MEXimize_the_Array.cpp_9edb38481c48b99970293654f16204e3.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Moody_Chef.cpp_9d71fceb4b3777eaf30978ce281747e4.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Penalty_Shoot_out.cpp_d87ecd042021c3bff5dae561db43edeb.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Swapping_Marks_Digits.cpp_c9b8ce6a9c25248659ffa5a935bb8fa0.prob, code is 1, comment is 0, blank is 0.
+cc_contest\.cph\.Updating_A.cpp_3cac080e59010a08035b2e456db07571.prob, code is 1, comment is 0, blank is 0.
+cc_contest\1.cpp, code is 38, comment is 8, blank is 5.
+cc_contest\10 jul 24\.cph\.1.cpp_2013a0c328d5ac38ca6ff1032f93c4a9.prob, code is 1, comment is 0, blank is 0.
+cc_contest\10 jul 24\1.bin, it is a binary file.
+cc_contest\10 jul 24\1.cpp, code is 39, comment is 3, blank is 4.
+cc_contest\10 jul 24\11.cpp, code is 11, comment is 0, blank is 2.
+cc_contest\11.CPP, code is 16, comment is 0, blank is 4.
+cc_contest\12 jun 24\.cph\.Distinct_Substring.cpp_7f0f6cabb8c9343084afc1b9ee4fdd49.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\.cph\.Heat_Wave.cpp_e4b0cba06a1c38839357ed7576e5d05f.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\.cph\.K_Subarray_Products.cpp_0301fe6105866889dc563235a115398e.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\.cph\.Long_Drive.cpp_523868cf4a63eb9af3ad949890d0a540.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\.cph\.Prefix_Suffix_Inequality.cpp_fc92d56297af153171ba47db4fc69945.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\.cph\.y.py_ba02d6765c92d28beb16a721079a263d.prob, code is 1, comment is 0, blank is 0.
+cc_contest\12 jun 24\Distinct_Substring.bin, it is a binary file.
+cc_contest\12 jun 24\Distinct_Substring.cpp, code is 25, comment is 0, blank is 5.
+cc_contest\12 jun 24\Heat_Wave.bin, it is a binary file.
+cc_contest\12 jun 24\Heat_Wave.cpp, code is 23, comment is 2, blank is 4.
+cc_contest\12 jun 24\K_Subarray_Products.bin, it is a binary file.
+cc_contest\12 jun 24\K_Subarray_Products.cpp, code is 36, comment is 3, blank is 8.
+cc_contest\12 jun 24\Long_Drive.bin, it is a binary file.
+cc_contest\12 jun 24\Long_Drive.cpp, code is 22, comment is 2, blank is 7.
+cc_contest\12 jun 24\Prefix_Suffix_Inequality.bin, it is a binary file.
+cc_contest\12 jun 24\Prefix_Suffix_Inequality.cpp, code is 23, comment is 6, blank is 6.
+cc_contest\12 jun 24\t.cpp, code is 18, comment is 2, blank is 2.
+cc_contest\12 jun 24\y.py, code is 12, comment is 1, blank is 3.
+cc_contest\19 jun 24\.cph\.Destroying_Bridges_Part_2.cpp_2008f04c240e25e1f3da1d6fcd2a7b21.prob, code is 1, comment is 0, blank is 0.
+cc_contest\19 jun 24\.cph\.Distribute_Cookies.cpp_678eff6c4539934466ea6148a7b92c51.prob, code is 1, comment is 0, blank is 0.
+cc_contest\19 jun 24\.cph\.Maximum_Distance_Permutations.cpp_ca205108dc9a75355a9a39d32950e9c7.prob, code is 1, comment is 0, blank is 0.
+cc_contest\19 jun 24\Destroying_Bridges_Part_2.bin, it is a binary file.
+cc_contest\19 jun 24\Destroying_Bridges_Part_2.cpp, code is 76, comment is 0, blank is 13.
+cc_contest\19 jun 24\Distribute_Cookies.bin, it is a binary file.
+cc_contest\19 jun 24\Distribute_Cookies.cpp, code is 21, comment is 6, blank is 4.
+cc_contest\19 jun 24\Maximum_Distance_Permutations.bin, it is a binary file.
+cc_contest\19 jun 24\Maximum_Distance_Permutations.cpp, code is 42, comment is 6, blank is 4.
+cc_contest\19 jun 24\n.cpp, code is 14, comment is 0, blank is 6.
+cc_contest\19 jun 24\t.cpp, code is 25, comment is 6, blank is 5.
+cc_contest\31jul 24\.cph\.1.cpp_b33a5430dbd4f7f5044d6a13e3b5e9d0.prob, code is 1, comment is 0, blank is 0.
+cc_contest\31jul 24\.cph\.B_Parity_and_Sum.cpp_a81825fa5c57a96e1d9c8db8d4b41029.prob, code is 1, comment is 0, blank is 0.
+cc_contest\31jul 24\.cph\.Gun_Master.cpp_c176aa53aaace81269e2c2593bb9bb10.prob, code is 1, comment is 0, blank is 0.
+cc_contest\31jul 24\.cph\.Make_Bob_Win.cpp_97e86265255902d4641c7497da3e8cc8.prob, code is 1, comment is 0, blank is 0.
+cc_contest\31jul 24\.cph\.Make_My_Array_Equal.cpp_ecce4b0805a15b4744a52f126a3149d9.prob, code is 1, comment is 0, blank is 0.
+cc_contest\31jul 24\1.cpp, code is 39, comment is 3, blank is 4.
+cc_contest\31jul 24\B_Parity_and_Sum.cpp, code is 31, comment is 3, blank is 4.
+cc_contest\31jul 24\Gun_Master.bin, it is a binary file.
+cc_contest\31jul 24\Gun_Master.cpp, code is 32, comment is 0, blank is 3.
+cc_contest\31jul 24\Make_Bob_Win.bin, it is a binary file.
+cc_contest\31jul 24\Make_Bob_Win.cpp, code is 38, comment is 3, blank is 9.
+cc_contest\31jul 24\Make_My_Array_Equal.bin, it is a binary file.
+cc_contest\31jul 24\Make_My_Array_Equal.cpp, code is 46, comment is 0, blank is 2.
+cc_contest\Alternating_Binary_String.cpp, code is 49, comment is 8, blank is 5.
+cc_contest\Array_Removal.cpp, code is 47, comment is 0, blank is 9.
+cc_contest\Binary_Conversion.cpp, code is 63, comment is 0, blank is 5.
+cc_contest\Chef_loves_Pizza_Chef_loves_halfs.cpp, code is 33, comment is 4, blank is 3.
+cc_contest\Dice_Deception.cpp, code is 37, comment is 1, blank is 3.
+cc_contest\Disjoint_Non_Decreasing_Array.cpp, code is 49, comment is 100, blank is 9.
+cc_contest\Encrypt_Value.cpp, code is 38, comment is 0, blank is 3.
+cc_contest\Gotta_Catch_Em_All.cpp, code is 36, comment is 0, blank is 4.
+cc_contest\K_Closeness.cpp, code is 34, comment is 0, blank is 4.
+cc_contest\Make_Equal.cpp, code is 43, comment is 0, blank is 3.
+cc_contest\MEXimize_the_Array.cpp, code is 49, comment is 8, blank is 5.
+cc_contest\Moody_Chef.cpp, code is 61, comment is 8, blank is 5.
+cc_contest\n.cpp, code is 38, comment is 8, blank is 5.
+cc_contest\Penalty_Shoot_out.cpp, code is 22, comment is 0, blank is 4.
+cc_contest\real.cpp, code is 30, comment is 7, blank is 4.
+cc_contest\rf.cpp, code is 18, comment is 0, blank is 2.
+cc_contest\Swapping_Marks_Digits.cpp, code is 43, comment is 0, blank is 3.
+cc_contest\Updating_A.cpp, code is 73, comment is 3, blank is 5.
+cf.cpp, code is 21, comment is 2, blank is 4.
+cf2.cpp, code is 21, comment is 2, blank is 4.
+cf_contest\.cph\.A_Catch_the_Coin.cpp_a4f82c3dfc90e4e42dda3c3f913a7dcc.prob, code is 1, comment is 0, blank is 0.
+cf_contest\.cph\.A_Only_Pluses.cpp_0d7e41e2b03e381472b805f59ad74dbc.prob, code is 1, comment is 0, blank is 0.
+cf_contest\.cph\.B_Angry_Monk.cpp_bdaa16c09714c6d085d4fd2b99d83daf.prob, code is 1, comment is 0, blank is 0.
+cf_contest\.cph\.C_Gorilla_and_Permutation.cpp_e22185e83dd3bcdc1d87890c4d9a479b.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.11.cpp_757b84dc68f97f94e3b3739b2f5ed4b5.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.11.cpp_df46a2d0b1b1cfa8ec0e59c58e6028cd.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.22.cpp_d8762a31fa6247d1b45773423ebc10a0.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.33.cpp_9991e9c9b06cafbc7eddaf48a110501e.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.44.cpp_d662e37a56918846ec59c5f78e6e370f.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\.cph\.55.cpp_c9d6e16951156195319a8720e24f0594.prob, code is 1, comment is 0, blank is 0.
+cf_contest\11 jun 24\11.bin, it is a binary file.
+cf_contest\11 jun 24\11.cpp, code is 22, comment is 2, blank is 1.
+cf_contest\11 jun 24\22.bin, it is a binary file.
+cf_contest\11 jun 24\22.cpp, code is 34, comment is 2, blank is 3.
+cf_contest\11 jun 24\33.bin, it is a binary file.
+cf_contest\11 jun 24\33.cpp, code is 38, comment is 2, blank is 6.
+cf_contest\11 jun 24\44.bin, it is a binary file.
+cf_contest\11 jun 24\44.cpp, code is 40, comment is 2, blank is 6.
+cf_contest\11 jun 24\55.bin, it is a binary file.
+cf_contest\11 jun 24\55.cpp, code is 46, comment is 0, blank is 7.
+cf_contest\13 apr 24\1.cpp, code is 36, comment is 8, blank is 6.
+cf_contest\17 5 24\.cph\.1.cpp_07d4e713648bdfc3cc2ea288491f9b3c.prob, code is 1, comment is 0, blank is 0.
+cf_contest\17 5 24\1.bin, it is a binary file.
+cf_contest\17 5 24\1.cpp, code is 39, comment is 2, blank is 3.
+cf_contest\25 5 24\.cph\.378_QAQ_and_Mocha_s_Array.cpp_080019d69ad3679c01081a7bf8e2d4b1.prob, code is 1, comment is 0, blank is 0.
+cf_contest\25 5 24\.cph\.Bazoka_and_Mocha_s_Array.cpp_f0bab8d6920b2aee631a6f0f19110d44.prob, code is 1, comment is 0, blank is 0.
+cf_contest\25 5 24\.cph\.D_Paint_the_Tree.cpp_495d2443a64ea4ebcb78d629a3489600.prob, code is 1, comment is 0, blank is 0.
+cf_contest\25 5 24\1.cpp, code is 18, comment is 2, blank is 2.
+cf_contest\25 5 24\378_QAQ_and_Mocha_s_Array.bin, it is a binary file.
+cf_contest\25 5 24\378_QAQ_and_Mocha_s_Array.cpp, code is 62, comment is 4, blank is 14.
+cf_contest\25 5 24\aka.cpp, code is 10, comment is 0, blank is 4.
+cf_contest\25 5 24\Bazoka_and_Mocha_s_Array.bin, it is a binary file.
+cf_contest\25 5 24\Bazoka_and_Mocha_s_Array.cpp, code is 56, comment is 4, blank is 10.
+cf_contest\25 5 24\D_Paint_the_Tree.bin, it is a binary file.
+cf_contest\25 5 24\D_Paint_the_Tree.cpp, code is 55, comment is 0, blank is 13.
+cf_contest\A_Catch_the_Coin.cpp, code is 43, comment is 1, blank is 5.
+cf_contest\A_Only_Pluses.cpp, code is 22, comment is 0, blank is 2.
+cf_contest\B_Angry_Monk.cpp, code is 39, comment is 0, blank is 3.
+cf_contest\C_Gorilla_and_Permutation.cpp, code is 35, comment is 0, blank is 3.
+cf_contest\epic trch\.cph\.A_Upload_More_RAM.cpp_8298e03be3835e7479850bc9917495bc.prob, code is 1, comment is 0, blank is 0.
+cf_contest\epic trch\.cph\.B_K_Sort.cpp_e576fbaf088047aebcc07f3d00099fc2.prob, code is 1, comment is 0, blank is 0.
+cf_contest\epic trch\.cph\.C_Basil_s_Garden.cpp_7f9477cc7408f5b5268161057a8bfec7.prob, code is 1, comment is 0, blank is 0.
+cf_contest\epic trch\.cph\.D_World_is_Mine.cpp_54aad261b239384d3c887d95028ebbb8.prob, code is 1, comment is 0, blank is 0.
+cf_contest\epic trch\.cph\.F_1_Interesting_Problem_Easy_Version.cpp_998fbd6f7d06ff1bba6c6670f9bed768.prob, code is 1, comment is 0, blank is 0.
+cf_contest\epic trch\A_Upload_More_RAM.bin, it is a binary file.
+cf_contest\epic trch\A_Upload_More_RAM.cpp, code is 15, comment is 0, blank is 2.
+cf_contest\epic trch\B_K_Sort.bin, it is a binary file.
+cf_contest\epic trch\B_K_Sort.cpp, code is 38, comment is 2, blank is 2.
+cf_contest\epic trch\C_Basil_s_Garden.bin, it is a binary file.
+cf_contest\epic trch\C_Basil_s_Garden.cpp, code is 22, comment is 2, blank is 3.
+cf_contest\epic trch\D_World_is_Mine.bin, it is a binary file.
+cf_contest\epic trch\D_World_is_Mine.cpp, code is 32, comment is 3, blank is 5.
+cf_contest\epic trch\F_1_Interesting_Problem_Easy_Version.bin, it is a binary file.
+cf_contest\epic trch\F_1_Interesting_Problem_Easy_Version.cpp, code is 37, comment is 1, blank is 3.
+cf_contest\epic trch\interactive.cpp, code is 50, comment is 2, blank is 6.
+cf_contest\nnn.cpp, code is 22, comment is 0, blank is 3.
+Change_A_to_B.cpp, code is 61, comment is 7, blank is 12.
+Chef_Loves_Beautiful_Strings_Easy_Version.cpp, code is 31, comment is 2, blank is 4.
+codeGladiaters\cd1.cpp, code is 35, comment is 6, blank is 6.
+codeGladiaters\cd2.cpp, code is 36, comment is 6, blank is 7.
+Coprime_Subarrays.cpp, code is 43, comment is 1, blank is 9.
+D_Souvenirs.cpp, code is 0, comment is 0, blank is 0.
+Double_Trouble.cpp, code is 111, comment is 5, blank is 8.
+dp\.cph\.tiles.cpp_940fc60fb858f5e0e8a40913c67c60c3.prob, code is 1, comment is 0, blank is 0.
+dp\1.cpp, code is 34, comment is 8, blank is 6.
+dp\1.exe, it is a binary file.
+dp\tiles.cpp, code is 29, comment is 0, blank is 8.
+dp\wineShop.cpp, code is 29, comment is 0, blank is 8.
+E_Tetrahedron.cpp, code is 28, comment is 1, blank is 8.
+Easy_Subarray_Sum.cpp, code is 53, comment is 2, blank is 5.
+Equal_Pairs_Easy.cpp, code is 52, comment is 0, blank is 3.
+Extreme_Basketball.cpp, code is 27, comment is 1, blank is 2.
+G_Mathematician_Takeover.cpp, code is 0, comment is 0, blank is 0.
+H_Palindrome.cpp, code is 33, comment is 0, blank is 3.
+Invert_And_Equalize.cpp, code is 47, comment is 1, blank is 2.
+Knockout_tournament.cpp, code is 33, comment is 1, blank is 3.
+Large_Differences.cpp, code is 52, comment is 0, blank is 10.
+leetcode dpp\ALGOS\dutchFlagAlgo.cpp, code is 43, comment is 7, blank is 4.
+leetcode dpp\ALGOS\dutchFlagAlgo.exe, it is a binary file.
+leetcode dpp\backtrack\Maximum_Score_Words_Formed_by_Letters.cpp, code is 33, comment is 2, blank is 0.
+leetcode dpp\binarySearch\magneticForce.cpp, code is 41, comment is 0, blank is 0.
+leetcode dpp\binarySearch\makingBouquets.cpp, code is 50, comment is 1, blank is 0.
+leetcode dpp\lower_bound.cpp, code is 16, comment is 0, blank is 0.
+leetcode dpp\normal\4_6_24.cpp, code is 27, comment is 0, blank is 0.
+leetcode dpp\Recursion\deleteTargetLeaf.cpp, code is 14, comment is 11, blank is 0.
+leetcode dpp\Recursion\DistributeInBinTree.cpp, code is 20, comment is 11, blank is 2.
+leetcode dpp\Recursion\Evaluate_Bool_Binary_tree.cpp, code is 19, comment is 12, blank is 2.
+leetcode dpp\Recursion\tree\maxxSumOf, code is 0, comment is 0, blank is 0.
+leetcode dpp\string\charToString.cpp, code is 31, comment is 2, blank is 0.
+leetcode dpp\twoArrayCommonElements.cpp, code is 23, comment is 0, blank is 1.
+leetcode dpp\twoArrayCommonElements.exe, it is a binary file.
+Lexicographically_Maximal_Prefix_AND.cpp, code is 38, comment is 3, blank is 7.
+lt_contest\minMax.cpp, code is 25, comment is 3, blank is 4.
+Magical_World.cpp, code is 33, comment is 2, blank is 4.
+Make_Permutation.cpp, code is 31, comment is 1, blank is 5.
+Max_Frequency.cpp, code is 64, comment is 9, blank is 5.
+Maximise_Sum.cpp, code is 40, comment is 2, blank is 7.
+Maximum_Cupcakes.cpp, code is 58, comment is 9, blank is 8.
+Minimise_LCS.cpp, code is 49, comment is 3, blank is 4.
+My_First_Geometry_Problem.cpp, code is 51, comment is 3, blank is 2.
+n.cpp, code is 25, comment is 2, blank is 5.
+nn.cpp, code is 27, comment is 1, blank is 2.
+No_Winner.cpp, code is 30, comment is 1, blank is 2.
+numeric_limits.cpp, code is 27, comment is 4, blank is 6.
+numeric_limits.exe, it is a binary file.
+osu_mania.cpp, code is 39, comment is 2, blank is 6.
+Permutation_Construction.cpp, code is 38, comment is 1, blank is 8.
+Ratio_By_2.cpp, code is 25, comment is 2, blank is 5.
+Satyam_and_Counting.cpp, code is 52, comment is 7, blank is 5.
+Speedrun.cpp, code is 77, comment is 5, blank is 7.
+speedrun2.cpp, code is 89, comment is 3, blank is 10.
+Spell_Splice.cpp, code is 31, comment is 0, blank is 7.
+Split_Permutation.cpp, code is 53, comment is 0, blank is 7.
+spoj\.cph\.A_Simple_Palindrome.cpp_5dd51475305e5c702b3db43b93490e5b.prob, code is 1, comment is 0, blank is 0.
+spoj\.cph\.Aggressive_cows.cpp_705d364e44bde24ce557dfd61a411b94.prob, code is 1, comment is 0, blank is 0.
+spoj\.cph\.B_1_The_Strict_Teacher_Easy_Version.cpp_dd7946f5a08083db7beb7f9fc80c4829.prob, code is 1, comment is 0, blank is 0.
+spoj\.cph\.Ball_Game.cpp_0a5b5259b87cfde3345806525910621d.prob, code is 1, comment is 0, blank is 0.
+spoj\A_Simple_Palindrome.cpp, code is 36, comment is 17, blank is 1.
+spoj\Aggressive_cows.cpp, code is 49, comment is 0, blank is 3.
+spoj\B_1_The_Strict_Teacher_Easy_Version.cpp, code is 42, comment is 1, blank is 1.
+spoj\Ball_Game.cpp, code is 42, comment is 0, blank is 5.
+spoj\cc 18-09-24\.cph\.Maximize_Hamming_Distance.cpp_fa823f6d227db95bd7770ae4f66c5ec1.prob, code is 1, comment is 0, blank is 0.
+spoj\cc 18-09-24\.cph\.Range_Minimize.cpp_5a8fedc556f776717310a0d0b5b0684a.prob, code is 1, comment is 0, blank is 0.
+spoj\cc 18-09-24\.cph\.Winning_World_Finals.cpp_b4c08754d91a5a9e3d39032783a0aaad.prob, code is 1, comment is 0, blank is 0.
+spoj\cc 18-09-24\m.cpp, code is 21, comment is 2, blank is 5.
+spoj\cc 18-09-24\Maximize_Hamming_Distance.bin, it is a binary file.
+spoj\cc 18-09-24\Maximize_Hamming_Distance.cpp, code is 62, comment is 2, blank is 12.
+spoj\cc 18-09-24\Range_Minimize.bin, it is a binary file.
+spoj\cc 18-09-24\Range_Minimize.cpp, code is 31, comment is 2, blank is 4.
+spoj\cc 18-09-24\t.cpp, code is 12, comment is 0, blank is 4.
+spoj\cc 18-09-24\Winning_World_Finals.bin, it is a binary file.
+spoj\cc 18-09-24\Winning_World_Finals.cpp, code is 25, comment is 2, blank is 4.
+spoj\cf 20 sep 24\.cph\.A_Max_Plus_Size.cpp_9fe1831be67d547929101bfc88bac662.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.A_Zhan_s_Blender.cpp_7bab647fcdecc3ad63ba956dcc64191a.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.Another_Game.cpp_c6f824bcf8808f2da6b534ef9f951a6d.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.B_Battle_for_Survive.cpp_216fb1d8f44d38c3a65055c5956584e7.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.Butterfly.cpp_379ea5caee1109ec4207581bbc1beaaf.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.C_Password_Cracking.cpp_38fad605ca601a0194d16ec9e1f48cd5.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.Colorful_Tree_Easy_Version.cpp_58e29cea6e8b081a3ac7498c77d6a991.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\.cph\.Make_Arithmetic_Progression.cpp_ba81a354ea63d4be7ffffca44829ebc8.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\1.cpp, code is 21, comment is 2, blank is 4.
+spoj\cf 20 sep 24\2 oct 24\.cph\.Add_1_or_2_Game.cpp_53c23488692889a6f9bfedd5a79efedd.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\2 oct 24\.cph\.Calorie_Limit.cpp_d8399b6153f7023e45567fb63b29a411.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\2 oct 24\.cph\.GCD_and_XOR.cpp_af299714ef64a6ed0f6b482096acca21.prob, code is 1, comment is 0, blank is 0.
+spoj\cf 20 sep 24\2 oct 24\1.cpp, code is 20, comment is 1, blank is 5.
+spoj\cf 20 sep 24\2 oct 24\11.cpp, code is 23, comment is 0, blank is 4.
+spoj\cf 20 sep 24\2 oct 24\Add_1_or_2_Game.bin, it is a binary file.
+spoj\cf 20 sep 24\2 oct 24\Add_1_or_2_Game.cpp, code is 22, comment is 0, blank is 4.
+spoj\cf 20 sep 24\2 oct 24\Calorie_Limit.bin, it is a binary file.
+spoj\cf 20 sep 24\2 oct 24\Calorie_Limit.cpp, code is 25, comment is 0, blank is 4.
+spoj\cf 20 sep 24\2 oct 24\GCD_and_XOR.bin, it is a binary file.
+spoj\cf 20 sep 24\2 oct 24\GCD_and_XOR.cpp, code is 46, comment is 9, blank is 9.
+spoj\cf 20 sep 24\A_Max_Plus_Size.bin, it is a binary file.
+spoj\cf 20 sep 24\A_Max_Plus_Size.cpp, code is 34, comment is 1, blank is 5.
+spoj\cf 20 sep 24\A_Zhan_s_Blender.bin, it is a binary file.
+spoj\cf 20 sep 24\A_Zhan_s_Blender.cpp, code is 18, comment is 0, blank is 3.
+spoj\cf 20 sep 24\Another_Game.bin, it is a binary file.
+spoj\cf 20 sep 24\Another_Game.cpp, code is 37, comment is 2, blank is 4.
+spoj\cf 20 sep 24\B_Battle_for_Survive.bin, it is a binary file.
+spoj\cf 20 sep 24\B_Battle_for_Survive.cpp, code is 23, comment is 0, blank is 4.
+spoj\cf 20 sep 24\Butterfly.bin, it is a binary file.
+spoj\cf 20 sep 24\Butterfly.cpp, code is 30, comment is 2, blank is 4.
+spoj\cf 20 sep 24\C_Password_Cracking.bin, it is a binary file.
+spoj\cf 20 sep 24\C_Password_Cracking.cpp, code is 44, comment is 16, blank is 9.
+spoj\cf 20 sep 24\Colorful_Tree_Easy_Version.bin, it is a binary file.
+spoj\cf 20 sep 24\Colorful_Tree_Easy_Version.cpp, code is 44, comment is 1, blank is 11.
+spoj\cf 20 sep 24\Make_Arithmetic_Progression.bin, it is a binary file.
+spoj\cf 20 sep 24\Make_Arithmetic_Progression.cpp, code is 27, comment is 2, blank is 4.
+spoj\cf 20 sep 24\n.cpp, code is 11, comment is 0, blank is 3.
+spoj\cf 20 sep 24\olx.ipynb, code is 146, comment is 0, blank is 5.
+spoj\cf 20 sep 24\olx.py, code is 0, comment is 0, blank is 0.
+spoj\n.cpp, code is 0, comment is 0, blank is 0.
+spoj\tasks.json, code is 27, comment is 0, blank is 2.
+Sum_of_Modes.cpp, code is 43, comment is 5, blank is 10.
+Superincreasing.cpp, code is 28, comment is 1, blank is 5.
+t.cpp, code is 36, comment is 8, blank is 4.
+t.exe, it is a binary file.
+t2.cpp, code is 39, comment is 1, blank is 9.
+The_Legend_of_Freya_the_Frog.cpp, code is 29, comment is 2, blank is 4.
+timeTable.csv, code is 14, comment is 0, blank is 0.
+Trick_Or_Treat.cpp, code is 31, comment is 0, blank is 5.
+tt.cpp, code is 31, comment is 1, blank is 5.
+Yoga_Class.cpp, code is 28, comment is 6, blank is 7.
+===============================================================================

@@ -1,0 +1,2196 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Users\\Abhishekh\\Documents\\GitHub\\cpAlgo\\algo_assign",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2024-11-27 15:18:10",
+            "filesum": 356,
+            "codesum": 11849,
+            "commentsum": 1231,
+            "blanksum": 1225,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.1.cpp_de8ffd46f6293f80fa871858bf97930a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.2.cpp_fe47180b0f4a48bfce4552672cf19598.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.AND_Quest.cpp_d57e10a7509baef4b2a45830f6fee9e3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.balloon_game.cpp_06fa6f3fbb0e2a48ebff0f7055916703.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.candies.cpp_3c01d51a80a0d289514d9caa533f6034.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Moneymaking.cpp_71f0e0ade8bbf0f8fabad23f33f7c094.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Red_Blue_Sort.cpp_8b26ad4bc1418e3ea92e881b354e5f7c.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.rever.cpp_00dedf619e8783992a89971ab4da4e12.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Selling_Donuts.cpp_59d07ec0577657c322452615309ac3e3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Small_Indices.cpp_8eb0e1ad71e560341f17ee7704a451d9.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.subtreeKthmax.cpp_0dc9e36da6756efe6af5a72482030880.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Temporary_Temperature.cpp_e18808dc3eb1c3f7198c3e0c9b8966fb.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Two_Cards.cpp_712629ebbcb2672485ad1cd09702deb6.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".cph\\.Unsatisfying_Array.cpp_a73c87f386c1cf51168fc76f3755ce0f.prob"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "11bareMin.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "1oj\\class\\backend\\.env"
+                },
+                {
+                    "blank": 33,
+                    "code": 97,
+                    "comment": 7,
+                    "filename": "1oj\\class\\backend\\.gitignore"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "1oj\\class\\backend\\database\\db.js"
+                },
+                {
+                    "blank": 19,
+                    "code": 70,
+                    "comment": 18,
+                    "filename": "1oj\\class\\backend\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "1oj\\class\\backend\\models\\Users.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 2321,
+                    "comment": 0,
+                    "filename": "1oj\\class\\backend\\package-lock.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "1oj\\class\\backend\\package.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 38,
+                    "comment": 2,
+                    "filename": "1oj\\Schemas\\use.js"
+                },
+                {
+                    "blank": 12,
+                    "code": 88,
+                    "comment": 3,
+                    "filename": "AND_Quest.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.closest_refuge.cpp_e61beb393b19b2a59ac501c024a3172f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.largest_subarrsum_7.cpp_011198d567baa1b762b8b38ac925760e.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.range_queries.cpp_fde25f53350a7616b431f3c7257a9442.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.sorted_square.cpp_5161f4f72a24ae778d13ecc3d8d46968.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.sorted_square.cpp_985d54821c2fb912f0a932628c2881aa.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.treasure_room.cpp_bf7cd29247c0881731bf67aab7af813e.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "array\\.cph\\.treasure_room_3key.cpp_794298306056d87dffe87ddc8c339325.prob"
+                },
+                {
+                    "blank": 6,
+                    "code": 54,
+                    "comment": 10,
+                    "filename": "array\\closest_refuge.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 55,
+                    "comment": 10,
+                    "filename": "array\\largest_subarrsum_7.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 57,
+                    "comment": 10,
+                    "filename": "array\\range_queries.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 81,
+                    "comment": 10,
+                    "filename": "array\\sorted_square.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 62,
+                    "comment": 10,
+                    "filename": "array\\treasure_room_2key.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 69,
+                    "comment": 12,
+                    "filename": "array\\treasure_room_3key.cpp"
+                },
+                {
+                    "blank": 11,
+                    "code": 54,
+                    "comment": 11,
+                    "filename": "balloon_game.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 50,
+                    "comment": 15,
+                    "filename": "balooonCopy.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 43,
+                    "comment": 3,
+                    "filename": "bin.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.2d_matrix.cpp_167563fd069799af9fca2ae304fc58d0.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.direct_b_s.cpp_5789d7fd00828640bf0a4a69a46001e5.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.first_last_ind.cpp_2633c9308dcc09366b48427c9602407a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.range.cpp_f07c7b168ac1283c5698d66f21ecf72b.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.sba.cpp_55d04e405d1984b6794d0fab6f03efc9.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.sqrt.cpp_0ab9552a24064a5c9ac8fbe9fcaf7554.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary search\\.cph\\.sqrt.cpp_81c81af0eb7f9fa2b951c0ac5923c516.prob"
+                },
+                {
+                    "filename": "binary search\\2d_matrix.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 67,
+                    "comment": 9,
+                    "filename": "binary search\\2d_matrix.cpp"
+                },
+                {
+                    "filename": "binary search\\direct_b_s.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 56,
+                    "comment": 8,
+                    "filename": "binary search\\direct_b_s.cpp"
+                },
+                {
+                    "filename": "binary search\\first_last_ind.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 9,
+                    "code": 79,
+                    "comment": 10,
+                    "filename": "binary search\\first_last_ind.cpp"
+                },
+                {
+                    "filename": "binary search\\range.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 77,
+                    "comment": 10,
+                    "filename": "binary search\\range.cpp"
+                },
+                {
+                    "filename": "binary search\\sba.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 52,
+                    "comment": 8,
+                    "filename": "binary search\\sba.cpp"
+                },
+                {
+                    "filename": "binary search\\sqrt.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 51,
+                    "comment": 9,
+                    "filename": "binary search\\sqrt.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.candies.cpp_3406866c9b746c4d8efd0977883f0981.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.corona.cpp_78a416e068eb6d9b1678dd1912ac6b33.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.packing.cpp_a4a8f6bde4d029339b2e2d4ba9dbf030.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.piles_probml.cpp_5d6feb80480f9ce72d01db5dc5328e36.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.rotated_arry.cpp_5dfbfc7e295859995b8357423a580fae.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\.cph\\.transport.cpp_81afb7d09145240a1a955e24a518a9d9.prob"
+                },
+                {
+                    "blank": 9,
+                    "code": 62,
+                    "comment": 10,
+                    "filename": "binary_search_addv\\candies.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 66,
+                    "comment": 10,
+                    "filename": "binary_search_addv\\corona.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 41,
+                    "comment": 1,
+                    "filename": "binary_search_addv\\doubt_packing.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "binary_search_addv\\nc.cpp"
+                },
+                {
+                    "blank": 11,
+                    "code": 67,
+                    "comment": 15,
+                    "filename": "binary_search_addv\\packing.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 71,
+                    "comment": 14,
+                    "filename": "binary_search_addv\\piles_probml.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 42,
+                    "comment": 8,
+                    "filename": "binary_search_addv\\rotated_arr_search.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 52,
+                    "comment": 8,
+                    "filename": "binary_search_addv\\rotated_arry.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 84,
+                    "comment": 10,
+                    "filename": "binary_search_addv\\transport.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.booleanEval.cpp_55f87f1663d770fc0b85b0fce3365077.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.flipBits.cpp_a8bdd856716763a52b8fdc39c453edff.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.GoodSubarray.cpp_67fc5531b5c03eeae82435738289f6d7.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.kthBitCheck.cpp_aa48be180c725051a6a457a9749d7fb6.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.maxAnd.cpp_d051c536c3d20f06080404d96a75f6a1.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.MaxConsecOnes.cpp_4d19dd4a9749162001d5b3481862ff04.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.maxXOR_y.cpp_5baf530104cd417bb8dd32a8ce7510d2.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.n.cpp_128fcbc1c8d29db20ee14e413356a5f3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.RockPaperScissor.cpp_c96db9cae7a7498bee5a63a983490b49.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.sc.cpp_910b190fa42cd35d2b55fb4b01576ca8.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "bit man\\.cph\\.XorAndInversion.cpp_2f0bb3156bcf11d93ee89c99093cfdc4.prob"
+                },
+                {
+                    "filename": "bit man\\booleanEval.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 38,
+                    "comment": 0,
+                    "filename": "bit man\\booleanEval.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 34,
+                    "comment": 2,
+                    "filename": "bit man\\class\\3same1dif.cpp"
+                },
+                {
+                    "filename": "bit man\\flipBits.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "bit man\\flipBits.cpp"
+                },
+                {
+                    "filename": "bit man\\GoodSubarray.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "bit man\\GoodSubarray.cpp"
+                },
+                {
+                    "filename": "bit man\\kthBitCheck.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 18,
+                    "comment": 3,
+                    "filename": "bit man\\kthBitCheck.cpp"
+                },
+                {
+                    "filename": "bit man\\maxAnd.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 58,
+                    "comment": 13,
+                    "filename": "bit man\\maxAnd.cpp"
+                },
+                {
+                    "filename": "bit man\\MaxConsecOnes.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 45,
+                    "comment": 13,
+                    "filename": "bit man\\MaxConsecOnes.cpp"
+                },
+                {
+                    "filename": "bit man\\maxXOR_y.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 39,
+                    "comment": 0,
+                    "filename": "bit man\\maxXOR_y.cpp"
+                },
+                {
+                    "filename": "bit man\\RockPaperScissor.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 3,
+                    "filename": "bit man\\RockPaperScissor.cpp"
+                },
+                {
+                    "filename": "bit man\\XorAndInversion.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 29,
+                    "comment": 1,
+                    "filename": "bit man\\XorAndInversion.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 46,
+                    "comment": 3,
+                    "filename": "bst\\2Insertion.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 50,
+                    "comment": 2,
+                    "filename": "bst\\3RangeSumOfBST.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 26,
+                    "comment": 21,
+                    "filename": "bst\\5SortedListToBST.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 7,
+                    "comment": 11,
+                    "filename": "bst\\6TwoSum.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "bst\\serach.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 3,
+                    "filename": "candies.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "cont\\.cph\\.1.cpp_eae530c78d36a156a47f8676087e8871.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "cont\\.cph\\.3.cpp_7c721fd0c565e50ca1cb50edda8ba1f5.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "cont\\.cph\\.BigCircle.cpp_d2b573c788da3855c67091eedc55386a.prob"
+                },
+                {
+                    "blank": 8,
+                    "code": 71,
+                    "comment": 2,
+                    "filename": "cont\\1.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 36,
+                    "comment": 5,
+                    "filename": "cont\\3.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 100,
+                    "comment": 2,
+                    "filename": "cont\\BigCircle.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "dp1.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\cses\\.cph\\.Dice_Combinations.cpp_a30928a32f7c3323769695e7f548794f.prob"
+                },
+                {
+                    "blank": 13,
+                    "code": 60,
+                    "comment": 5,
+                    "filename": "dp\\cses\\Dice_Combinations.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 60,
+                    "comment": 5,
+                    "filename": "dp\\cses\\diceCombination.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\kadane\\.cph\\.originalKadane.cpp_b0bb9b234d569033e913ec618c61df10.prob"
+                },
+                {
+                    "blank": 7,
+                    "code": 19,
+                    "comment": 1,
+                    "filename": "dp\\kadane\\originalKadane.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.bareMinDp.cpp_eef5402ebd4aa2a298f59b16e4330141.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.cd1.cpp_b3b41f0c468891d9386b67576629a301.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.cd2.cpp_4e7b61f958a5cd592e29635b58fc5fc6.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.defeatWhiteWhale.cpp_8d3f8ec417f010eedbe69d173ab1f476.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.doubleKnapack.cpp_c52e21cfa3601fcad6fa71ba996d6b61.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.fractional.cpp_a0655bd7fd4d97c332d545527a88b165.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.gigafactories.cpp_a3d590b9f149459f321ae4df3f514edb.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.keto.cpp_f443c3c25154cb1ae10c85dbaf1774af.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.sherlock.cpp_1e6e0d54f0c7de14f2b19dd0607b3d52.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\knapsack\\.cph\\.spaceTravel.cpp_7e6146009becfe1d2017d20d7d340283.prob"
+                },
+                {
+                    "blank": 8,
+                    "code": 48,
+                    "comment": 4,
+                    "filename": "dp\\knapsack\\bareMinDp.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 42,
+                    "comment": 7,
+                    "filename": "dp\\knapsack\\defeatWhiteWhale.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 44,
+                    "comment": 6,
+                    "filename": "dp\\knapsack\\doubleKnapack.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 45,
+                    "comment": 2,
+                    "filename": "dp\\knapsack\\fractional.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 43,
+                    "comment": 2,
+                    "filename": "dp\\knapsack\\gigafactories.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 52,
+                    "comment": 4,
+                    "filename": "dp\\knapsack\\keto.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 40,
+                    "comment": 1,
+                    "filename": "dp\\knapsack\\sherlock.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 63,
+                    "comment": 3,
+                    "filename": "dp\\knapsack\\spaceTravel.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\.cph\\.equalWeights.cpp_dc068678314c856161ec2e3e30fc9bb6.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\.cph\\.jump destination.cpp_4ad81801e9b83bc1506a26526a1446c9.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\.cph\\.makeSringEqual.cpp_f8f40f491b5268554ebc49d91842fbbf.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\.cph\\.ways_combination.cpp_b773a009d13dece31d2eb59092500020.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\.cph\\.waysOfJump.cpp_8d46b98e200445e97e078489a10e4ede.prob"
+                },
+                {
+                    "blank": 2,
+                    "code": 47,
+                    "comment": 5,
+                    "filename": "dp\\pattern recognition\\equalWeights.cpp"
+                },
+                {
+                    "filename": "dp\\pattern recognition\\jump destination.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "dp\\pattern recognition\\jump destination.cpp"
+                },
+                {
+                    "filename": "dp\\pattern recognition\\makeSringEqual.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 36,
+                    "comment": 0,
+                    "filename": "dp\\pattern recognition\\makeSringEqual.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 21,
+                    "comment": 3,
+                    "filename": "dp\\pattern recognition\\tessstLambda.cpp"
+                },
+                {
+                    "filename": "dp\\pattern recognition\\tessstLambda.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "dp\\pattern recognition\\ways_combination.cpp"
+                },
+                {
+                    "filename": "dp\\pattern recognition\\waysOfJump.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 36,
+                    "comment": 2,
+                    "filename": "dp\\pattern recognition\\waysOfJump.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\subsequence\\.cph\\.all_LCS2.cpp_f64e31d6c4320e7a97ca8e3d74971587.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\subsequence\\.cph\\.LCS1.cpp_5d921fe82a1e7676a28f980c4eb50da8.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\subsequence\\.cph\\.LCS2_contruction.cpp_cc12ab55c8afd3646cee7819b823ed86.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\subsequence\\.cph\\.longest_palindromic.cpp_e89c9604f9ce34d5099dbd70bcbb2c4f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "dp\\subsequence\\.cph\\.Shortest_Supersequence.cpp_8b62bc39948bac18060e0c45be6c96ca.prob"
+                },
+                {
+                    "blank": 13,
+                    "code": 67,
+                    "comment": 8,
+                    "filename": "dp\\subsequence\\all_LCS2.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 33,
+                    "comment": 2,
+                    "filename": "dp\\subsequence\\LCS1.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 59,
+                    "comment": 3,
+                    "filename": "dp\\subsequence\\LCS2_contruction.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 35,
+                    "comment": 2,
+                    "filename": "dp\\subsequence\\longest_palindromic.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 33,
+                    "comment": 3,
+                    "filename": "dp\\subsequence\\Shortest_Supersequence.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 61,
+                    "comment": 13,
+                    "filename": "dsu\\isGraphTree.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 41,
+                    "comment": 7,
+                    "filename": "eulerTour.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "g_ques\\.cph\\.bipartatite.cpp_eb54346d1f7b449d8df81c6cfd75b6a1.prob"
+                },
+                {
+                    "blank": 28,
+                    "code": 114,
+                    "comment": 17,
+                    "filename": "g_ques\\bipartatite.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\.cph\\.matrixToList.cpp_3e7502020c287c227bfcecd4d0417ba5.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\.cph\\.minimumJumps.cpp_b1947e75b46d914b76c35d7af65c758a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\.cph\\.mutliSourceBFS.cpp_ef88b09006084e92f38f4114e32b33b8.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\.cph\\.sourceToDestDAG.cpp_3e9cf3ba0cbad217c745b6739fb45e4a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\.cph\\.TravCouples.cpp_f1311ae8020a35e901c8f2296d713c07.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\concepts\\.cph\\.cycleDet.cpp_ceed2288c9995ee0b95ddc3941ec8128.prob"
+                },
+                {
+                    "blank": 9,
+                    "code": 97,
+                    "comment": 9,
+                    "filename": "graph\\concepts\\bfsBareMin.cpp"
+                },
+                {
+                    "filename": "graph\\concepts\\bfsBareMin.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 69,
+                    "comment": 1,
+                    "filename": "graph\\concepts\\CYC.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "graph\\concepts\\cycleDet.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 40,
+                    "comment": 1,
+                    "filename": "graph\\concepts\\cycleInUGraphBFS.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\concepts\\haha\\.cph\\.bossEmp.cpp_cabb595349078b1e4d4047d03367e04c.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\concepts\\haha\\.cph\\.diameter.cpp_22298fbfbf6aeabbead04ef4f43322d4.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\concepts\\haha\\.cph\\.mostProfitTeam.cpp_b4cddb55ea60f6557d075d1643bd27dd.prob"
+                },
+                {
+                    "blank": 7,
+                    "code": 45,
+                    "comment": 7,
+                    "filename": "graph\\concepts\\haha\\bossEmp.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 103,
+                    "comment": 24,
+                    "filename": "graph\\concepts\\haha\\c1.cpp"
+                },
+                {
+                    "filename": "graph\\concepts\\haha\\c1.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 10,
+                    "code": 32,
+                    "comment": 4,
+                    "filename": "graph\\concepts\\haha\\c2.cpp"
+                },
+                {
+                    "filename": "graph\\concepts\\haha\\c2.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 9,
+                    "code": 29,
+                    "comment": 6,
+                    "filename": "graph\\concepts\\haha\\c3.cpp"
+                },
+                {
+                    "filename": "graph\\concepts\\haha\\c3.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 63,
+                    "comment": 10,
+                    "filename": "graph\\concepts\\haha\\diameter.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 51,
+                    "comment": 8,
+                    "filename": "graph\\concepts\\haha\\mostProfitTeam.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\joboverflow\\.cph\\.area.cpp_a3e7179c32b25773f940e36195e634a6.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\joboverflow\\.cph\\.officeDesk.cpp_629106a0fe7243e4873997d4fa8e9e69.prob"
+                },
+                {
+                    "blank": 8,
+                    "code": 55,
+                    "comment": 7,
+                    "filename": "graph\\joboverflow\\area.cpp"
+                },
+                {
+                    "blank": 12,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "graph\\joboverflow\\areaMaxIsland.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "graph\\joboverflow\\diff.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 43,
+                    "comment": 0,
+                    "filename": "graph\\joboverflow\\diff2.cpp"
+                },
+                {
+                    "blank": 12,
+                    "code": 71,
+                    "comment": 4,
+                    "filename": "graph\\joboverflow\\officeDesk.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 46,
+                    "comment": 8,
+                    "filename": "graph\\matrixToList.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 63,
+                    "comment": 7,
+                    "filename": "graph\\minimumJumps.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 69,
+                    "comment": 4,
+                    "filename": "graph\\mutliSourceBFS.cpp"
+                },
+                {
+                    "filename": "graph\\mutliSourceBFS.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 10,
+                    "code": 107,
+                    "comment": 12,
+                    "filename": "graph\\sourceToDestDAG.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 61,
+                    "comment": 7,
+                    "filename": "graph\\TravCouples.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "graph\\travellingCouples.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\warchest1\\.cph\\.avo.cpp_83191e9d4baf478aacbfcf3b98acb321.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\warchest1\\.cph\\.avoidingCities.cpp_3f2a1b67322d002cda8f3cfc3501b8f9.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "graph\\warchest1\\.cph\\.twoOcean.cpp_f1067e25035bfd790a82a50ad4f54b60.prob"
+                },
+                {
+                    "blank": 10,
+                    "code": 52,
+                    "comment": 0,
+                    "filename": "graph\\warchest1\\avo.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 57,
+                    "comment": 7,
+                    "filename": "graph\\warchest1\\avoidingCities.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 92,
+                    "comment": 1,
+                    "filename": "graph\\warchest1\\twoOcean.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "hashing\\.cph\\.union.cpp_735abd924577bf7c79d81e9a7c6fd05f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "hashing\\.cph\\.UniqueInWinK.cpp_37906a396f66dabe2e51e8376626d5ef.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "hashing\\.cph\\.zeroSum.cpp_cb3eb49c8e0ed376f710e2f1dd0794e8.prob"
+                },
+                {
+                    "blank": 7,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "hashing\\chainingUsingClass.cpp"
+                },
+                {
+                    "filename": "hashing\\chainingUsingClass.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 41,
+                    "comment": 0,
+                    "filename": "hashing\\chainingUsingStruct.cpp"
+                },
+                {
+                    "filename": "hashing\\chainingUsingStruct.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "hashing\\DistEleIn2UnsArr.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "hashing\\incFreq.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "hashing\\LinAdd.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "hashing\\maxFreq.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 82,
+                    "comment": 0,
+                    "filename": "hashing\\openAdressing.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 27,
+                    "comment": 2,
+                    "filename": "hashing\\union.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "hashing\\UniqueInWinK.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 44,
+                    "comment": 0,
+                    "filename": "hashing\\zeroSum.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Dom And Parts.cpp_6047a5617177401535cae39ceb8faff7.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.k_closest.cpp_d1eb08665007c16017199b0cf88998e0.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.lazy_chef.cpp_c80c849b993ac0382f588e1aecda403f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Make_Files_Equall.cpp_608f5df13f08f04df8f793d2747137b4.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Not_Same_Elements.cpp_6b0b4bdc6c8d14a32feacfe6bf2759c2.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Partition_Labels.cpp_cf94f2e5f14ac41379551eab09ce8195.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Single_Element.cpp_445531ae354e80c604b63696d5964623.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Sliding_Window_Minimum.cpp_189797ab5366b188843e858ed87643e1.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.String Substitution.cpp_61ddabdc612ea3a6e0fc784200a9701b.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\.cph\\.Substring Without Repeating Characters.cpp_0cd7f1047cc28079753c1902823123b0.prob"
+                },
+                {
+                    "filename": "joboverflow\\Dom And Parts.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 67,
+                    "comment": 8,
+                    "filename": "joboverflow\\Dom And Parts.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 67,
+                    "comment": 8,
+                    "filename": "joboverflow\\friends.cpp"
+                },
+                {
+                    "blank": 19,
+                    "code": 69,
+                    "comment": 0,
+                    "filename": "joboverflow\\Good Strings.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "joboverflow\\graphs\\dfs\\.cph\\.mininmumCameraTree.cpp_7feca01b9cc5aff10dce161b47e2e5ae.prob"
+                },
+                {
+                    "blank": 8,
+                    "code": 57,
+                    "comment": 7,
+                    "filename": "joboverflow\\graphs\\dfs\\backToSquareOne.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 88,
+                    "comment": 11,
+                    "filename": "joboverflow\\graphs\\dfs\\mininmumCameraTree.cpp"
+                },
+                {
+                    "blank": 11,
+                    "code": 76,
+                    "comment": 11,
+                    "filename": "joboverflow\\graphs\\dfs\\n.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 25,
+                    "comment": 4,
+                    "filename": "joboverflow\\graphs\\dfs\\treeDepth.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 101,
+                    "comment": 9,
+                    "filename": "joboverflow\\Iniya Adhithya.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 62,
+                    "comment": 10,
+                    "filename": "joboverflow\\k_closest.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 108,
+                    "comment": 11,
+                    "filename": "joboverflow\\k_closest_in_sorted.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 86,
+                    "comment": 10,
+                    "filename": "joboverflow\\lazy_chef.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 53,
+                    "comment": 9,
+                    "filename": "joboverflow\\Make_Files_Equall.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 72,
+                    "comment": 11,
+                    "filename": "joboverflow\\Not_Same_Elements.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 53,
+                    "comment": 9,
+                    "filename": "joboverflow\\Partition_Labels.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 84,
+                    "comment": 9,
+                    "filename": "joboverflow\\Single_Element.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 44,
+                    "comment": 10,
+                    "filename": "joboverflow\\Sliding_Window_Minimum.cpp"
+                },
+                {
+                    "filename": "joboverflow\\String Substitution.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 67,
+                    "comment": 8,
+                    "filename": "joboverflow\\String Substitution.cpp"
+                },
+                {
+                    "filename": "joboverflow\\Substring Without Repeating Characters.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 1,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "joboverflow\\Substring Without Repeating Characters.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 53,
+                    "comment": 0,
+                    "filename": "lca_lowestCommonAnscestor.cpp"
+                },
+                {
+                    "filename": "lca_lowestCommonAnscestor.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 40,
+                    "comment": 9,
+                    "filename": "ll\\1.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 7,
+                    "filename": "ll\\detCyc.cpp"
+                },
+                {
+                    "filename": "ll\\detCyc.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 88,
+                    "comment": 9,
+                    "filename": "ll\\specialMatrix.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "matrix\\.cph\\.specialMatrix.cpp_0d84f7167ad5f79cd370951f39348d4a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "matrix\\.cph\\.spiral.cpp_4c35bf6078d77f5c597af8d0fbc7ca38.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "matrix\\.cph\\.wallPainting.cpp_66663da9bd37c774ed96fa613b93a932.prob"
+                },
+                {
+                    "blank": 6,
+                    "code": 67,
+                    "comment": 9,
+                    "filename": "matrix\\search.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 87,
+                    "comment": 9,
+                    "filename": "matrix\\specialMatrix.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 41,
+                    "comment": 4,
+                    "filename": "matrix\\spiral.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 38,
+                    "comment": 4,
+                    "filename": "matrix\\wallPainting.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 17,
+                    "comment": 2,
+                    "filename": "Moneymaking.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 16,
+                    "comment": 3,
+                    "filename": "notes.cpp\\DiffBwNULL_nullptr.cpp"
+                },
+                {
+                    "filename": "notes.cpp\\DiffBwNULL_nullptr.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.binarySearch.cpp_0ed15ed6d07ee803657bf2f7ef186a9f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.citiesAndExplosion.cpp_e76494369bf66262fd5bb92a4c55e3f3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.factorsWala.cpp_2cc6653b979faa0cb34161601a8ca815.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.gridMoves.cpp_2ceb422387491f574c2b063417522a1e.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.string_greedy.cpp_f895e51c0c1388cd5e69bab3e9175c5d.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\.cph\\.treeTraversal.cpp_1ecd2bad27ebe592003042f719163b1f.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\BinarySearch AlgoU\\.cph\\.busWaitingTIme.cpp_cc11a4b9406484294d93c5237b2688c1.prob"
+                },
+                {
+                    "filename": "phonepe\\BinarySearch AlgoU\\busWaitingTIme.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 9,
+                    "code": 57,
+                    "comment": 98,
+                    "filename": "phonepe\\BinarySearch AlgoU\\busWaitingTIme.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 53,
+                    "comment": 2,
+                    "filename": "phonepe\\binarySearch.cpp"
+                },
+                {
+                    "blank": 10,
+                    "code": 53,
+                    "comment": 4,
+                    "filename": "phonepe\\citiesAndExplosion.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\cses trees\\.cph\\.avoidObstacle.cpp_289f2f81a085470518506c9f8aa98ce8.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\cses trees\\.cph\\.noOfMatches.cpp_6c79fb4ddd237c229a4bf0ac90208f18.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "phonepe\\cses trees\\.cph\\.noOfSubordinates.cpp_0bde9eea0d1e4646691f8ff23e145901.prob"
+                },
+                {
+                    "blank": 3,
+                    "code": 39,
+                    "comment": 3,
+                    "filename": "phonepe\\cses trees\\avoidObstacle.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 47,
+                    "comment": 3,
+                    "filename": "phonepe\\cses trees\\noOfConnectedComp.cpp"
+                },
+                {
+                    "filename": "phonepe\\cses trees\\noOfMatches.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 41,
+                    "comment": 5,
+                    "filename": "phonepe\\cses trees\\noOfMatches.cpp"
+                },
+                {
+                    "filename": "phonepe\\cses trees\\noOfSubordinates.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 47,
+                    "comment": 5,
+                    "filename": "phonepe\\cses trees\\noOfSubordinates.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 29,
+                    "comment": 4,
+                    "filename": "phonepe\\factorsWala.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 45,
+                    "comment": 0,
+                    "filename": "phonepe\\gridMoves.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 47,
+                    "comment": 3,
+                    "filename": "phonepe\\NNN.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 68,
+                    "comment": 2,
+                    "filename": "phonepe\\string_greedy.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 20,
+                    "comment": 2,
+                    "filename": "phonepe\\t.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 44,
+                    "comment": 8,
+                    "filename": "phonepe\\treeTraversal.cpp"
+                },
+                {
+                    "filename": "phonepe\\treeTraversal.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.fib.cpp_27fa3c992b176b3fc6d535859f4d8165.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.Range Sum Query2.cpp_f1bbc7336e34e2d8fc939b9f183fb9b3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.single_element_log_n.cpp_480b98a9ad1c6d32cd71ad664b5b00c3.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.string_permutations.cpp_be372b22d78d8e023b060885efa6987a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.subset_sum.cpp_8c56b74a08b74fc74f8eb95cc6862dc8.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "recursion basics\\.cph\\.tower_of_hanoi.cpp_5de7c7ad84aa2941987c996a3c88d9f7.prob"
+                },
+                {
+                    "blank": 4,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "recursion basics\\1.cpp"
+                },
+                {
+                    "filename": "recursion basics\\fib.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 40,
+                    "comment": 8,
+                    "filename": "recursion basics\\fib.cpp"
+                },
+                {
+                    "filename": "recursion basics\\Range Sum Query2.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 11,
+                    "code": 70,
+                    "comment": 9,
+                    "filename": "recursion basics\\Range Sum Query2.cpp"
+                },
+                {
+                    "filename": "recursion basics\\single_element_log_n.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 7,
+                    "code": 84,
+                    "comment": 8,
+                    "filename": "recursion basics\\single_element_log_n.cpp"
+                },
+                {
+                    "filename": "recursion basics\\string_permutations.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 38,
+                    "comment": 9,
+                    "filename": "recursion basics\\string_permutations.cpp"
+                },
+                {
+                    "filename": "recursion basics\\subset_sum.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 9,
+                    "code": 52,
+                    "comment": 8,
+                    "filename": "recursion basics\\subset_sum.cpp"
+                },
+                {
+                    "filename": "recursion basics\\tower_of_hanoi.bin",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 13,
+                    "code": 49,
+                    "comment": 9,
+                    "filename": "recursion basics\\tower_of_hanoi.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 63,
+                    "comment": 2,
+                    "filename": "Red_Blue_Sort.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 3,
+                    "filename": "rever.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 38,
+                    "comment": 2,
+                    "filename": "Selling_Donuts.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 81,
+                    "comment": 3,
+                    "filename": "Small_Indices.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "sorting\\.cph\\.cowCheckup.cpp_5ef83eae5887441b7bbf26c63510e658.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "sorting\\.cph\\.maxExplosion.cpp_eb86fb9ffba8ccac2b0c35e275e5a251.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "sorting\\.cph\\.spaceship.cpp_50923a3e9356086df70ff0a3cab7a045.prob"
+                },
+                {
+                    "blank": 3,
+                    "code": 9,
+                    "comment": 6,
+                    "filename": "sorting\\bare.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 39,
+                    "comment": 6,
+                    "filename": "sorting\\cowCheckup.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 43,
+                    "comment": 9,
+                    "filename": "sorting\\maxExplosion.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 38,
+                    "comment": 6,
+                    "filename": "sorting\\spaceship.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 66,
+                    "comment": 22,
+                    "filename": "subtreeKthmax.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 67,
+                    "comment": 3,
+                    "filename": "Temporary_Temperature.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 27,
+                    "comment": 12,
+                    "filename": "tree\\bintreeFromPreOrderPostOrder.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 27,
+                    "comment": 18,
+                    "filename": "tree\\binTreeRighSideView.cpp"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 11,
+                    "filename": "tree\\diameter_of_BT.cpp"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 13,
+                    "filename": "tree\\mirrorImagTree.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 61,
+                    "comment": 13,
+                    "filename": "tree_kth_largest.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "trie\\.cph\\.countPairPalindrome.cpp_81eec78c461775b90f05b3d41af2865a.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "trie\\.cph\\.dictionaryWords.cpp_a4bc283bcb06a01bba55f772a3a635e1.prob"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "trie\\.cph\\.searchString.cpp_101bfe3085b0902dcf0b1e54cd80206c.prob"
+                },
+                {
+                    "blank": 6,
+                    "code": 66,
+                    "comment": 0,
+                    "filename": "trie\\countPairPalindrome.cpp"
+                },
+                {
+                    "blank": 13,
+                    "code": 107,
+                    "comment": 1,
+                    "filename": "trie\\dictionaryWords.cpp"
+                },
+                {
+                    "blank": 2,
+                    "code": 74,
+                    "comment": 16,
+                    "filename": "trie\\max_XOR.cpp"
+                },
+                {
+                    "blank": 6,
+                    "code": 81,
+                    "comment": 0,
+                    "filename": "trie\\searchString.cpp"
+                },
+                {
+                    "blank": 5,
+                    "code": 52,
+                    "comment": 7,
+                    "filename": "trie\\test.cpp"
+                },
+                {
+                    "filename": "trie\\test.exe",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 15,
+                    "code": 99,
+                    "comment": 39,
+                    "filename": "Two_Cards.cpp"
+                },
+                {
+                    "blank": 3,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "Unsatisfying_Array.cpp"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "warmup\\.cph\\.preRaju.cpp_cf7c9f5a4b6bbd7a706603fcca5ea1fc.prob"
+                },
+                {
+                    "blank": 5,
+                    "code": 53,
+                    "comment": 10,
+                    "filename": "warmup\\preRaju.cpp"
+                },
+                {
+                    "blank": 7,
+                    "code": 35,
+                    "comment": 27,
+                    "filename": "warmup\\reverse.cpp"
+                },
+                {
+                    "blank": 14,
+                    "code": 51,
+                    "comment": 11,
+                    "filename": "warmup\\string_oper.cpp"
+                },
+                {
+                    "blank": 8,
+                    "code": 32,
+                    "comment": 10,
+                    "filename": "warmup\\swapnil_bike.cpp"
+                },
+                {
+                    "blank": 9,
+                    "code": 57,
+                    "comment": 10,
+                    "filename": "warmup\\teleport.cpp"
+                }
+            ]
+        }
+    ]
+}
